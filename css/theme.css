@@ -40,7 +40,8 @@ body {
 
 .well h1 {
     color: #ee4444;
-    margin-top: .8em;
+    margin-top: 0.2em;
+    margin-bottom: .8em;
     font-size: 1.3em;
 }
 
@@ -57,6 +58,6 @@ body {
 }
 
 img {
-    width: 800px;
-    object-fit: contain;
+    max-width: 95%;
+    height: auto;
 }
