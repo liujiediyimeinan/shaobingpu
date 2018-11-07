@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1
 ---
 <h2>六界第一美男烧饼铺-油菜佐食</h2>
 
@@ -7,45 +7,44 @@ layout: default
 
 <hr>
 
-<ul>
-  <li>
-    <p><strong>1. 时评分析</strong></p>
-<ul>
+<h1 style="color:#444444"><strong>1. 时评分析</strong></h1>
+<ul><ol>
 {%for post in site.posts %}
        {% if post.tag == '评' %}
             <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
-</ul>
+</ol></ul>
 <hr>
-  <li>
-    <p><strong>2. 诗词歌赋</strong></p>
-      <ul>
+
+
+<h1 style="color:#444444"><strong>2. 诗词歌赋</strong></h1>
+<ul><ol>
 {%for post in site.posts %}
        {% if post.tag == '文' %}
             <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
-</ul>
+</ol></ul>
 <hr>
-  <li>
-    <p><strong>3. 美图品鉴</strong></p>
-       <ul>
+
+
+<h1 style="color:#444444"><strong>3. 美图品鉴</strong></h1>
+<ul><ol>
 {%for post in site.posts %}
        {% if post.tag == '图' %}
             <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
-</ul>
+</ol></ul>
 <hr>
-  <li>
-    <p><strong>4. 心路感言</strong></p>
-      <ul>
+
+<h1 style="color:#444444"><strong>4. 心路感言</strong></h1>
+<ul><ol>
 {%for post in site.posts %}
        {% if post.tag == '感' %}
             <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
-</ul>
-    </li>
-</ul>
+</ol></ul>
+
