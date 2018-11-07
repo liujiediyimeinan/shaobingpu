@@ -44,10 +44,11 @@
           </div>
           <div class="pagination">
               {% if page.next %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">上一帖</a>
               {% endif %}
+               <a class="btn btn-default" href="{{ site.baseurl}}/shichui.html" class="home">实锤菜单</a>
               {% if page.previous %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">下一帖</a>
               {% endif %}
           </div>
         </div>

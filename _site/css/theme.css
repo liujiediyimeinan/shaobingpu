@@ -79,7 +79,7 @@ img {
     color: #ee4444;
     margin-top: 0em;
     margin-bottom: 1em;
-    margin-left: 0.3em;
+    margin-left: 0em;
     padding:0;
     font-size: 1.3em;
 }
@@ -100,13 +100,13 @@ img {
 }
 .well1 ul ul{
   padding:0;
-  margin-left:6%;
+  margin-left:5%;
 }
 .well1 ul ul ul{
   padding:0;
-  margin-left:9%;
+  margin-left:7%;
 }
 .well1 ul ul ul ul{
   padding:0;
-  margin-left:12%;
+  margin-left:10%;
 }
