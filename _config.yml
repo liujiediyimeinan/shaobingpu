@@ -34,7 +34,7 @@ isso: ''
 disqus: ''
 
 permalink: /:year/:month/:title
-paginate: 10
+paginate: 5
 
 highlighter: rouge
 markdown: kramdown
