@@ -16,13 +16,13 @@ comments: true
 
 <ul><p><details open><summary>1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary><ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网点名邓伦新闻网址</a></li><li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">烧饼宴背后的后援会乱账</a></li></ul></details></p></ul>
   
-<ul>1.2 品牌站台事件: 合照三千八 会费不敢扒</ul>
+<ul><p><details open><summary>1.2 品牌站台事件: 合照三千八 会费不敢扒</summary><ul><li><a href="{{ site.baseurl }}/2018/11/借会费之名疑非法集资">VIP会员背后的集资疑云</a></li></ul></details></p></ul>
 
 <ul>1.3 生日开屏事件: 逃税成共识 整治成空言</ul>
 
 <ul>1.4 快本应援事件: 那一笔笔算不清的帐啊</ul>
 
-<ul>1.5 打榜冲销量事件: 公益是集资最后的遮羞布</ul>
+<ul><p><details open><summary>1.5 打榜冲销量事件: 公益是集资最后的遮羞布</summary><ul><li><a href="{{ site.baseurl }}/2018/11/公益作集资的遮羞布">果酱爱豆榜：打榜失败，公益挽尊？</a></li><li><a href="{{ site.baseurl }}/2018/11/公益作集资的遮羞布">邓伦大金瓶：销量不够，公益来凑？</a></li></ul></details></p></ul>
 
 <ul>1.6 与邓本伦的关系: 工作室直管后援会 邓本人100%控股人</ul>
 
@@ -56,7 +56,7 @@ comments: true
 
 <ul>3.1 防爆: 祝你为邓伦当男二</ul>
 
-<ul><ul><p><details open><summary>3.1.1 屠龙十日事件: 我从未见过如此骚操作的官博</summary><ul><li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">总结香蜜期间的网暴乱象</a></li><li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li><li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li></ul></details></p></ul>
+<ul><ul><p><details open><summary>3.1.1 屠龙十日事件: 我从未见过如此骚操作的官博</summary><ul><li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li><li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li><li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li></ul></details></p></ul>
 
 <ul>3.1.2 1001夜事件: 套路防爆 是谁无声无息没了姓名</ul></ul>
 
@@ -92,7 +92,7 @@ comments: true
 
 <ul>4.3 人身攻击</ul>
 
-<ul><ul><p><details open><summary>4.3.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary><ul><li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">总结香蜜期间的网暴乱象</a></li></ul></details></p></ul>
+<ul><ul><p><details open><summary>4.3.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary><ul><li><a href="{{ site.baseurl }}/2018/11/天涯总结香蜜期间的网暴乱象">总结香蜜期间的网暴乱象</a></li></ul></details></p></ul>
 
 <ul><p><details open><summary>4.3.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary><ul><li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评存档">关心则乱香蜜剧评存档</a></li><li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼的遗址</a></li></ul></details></p></ul>
 
@@ -102,9 +102,9 @@ comments: true
 
 <ul>4.4 六界封杀</ul>
 
-<ul><ul><p>4.4.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</p></ul>
+<ul><ul><p><details open><summary>4.4.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号 天涯轰然坍塌</summary><ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣专组高赞剧照消失事件</a></li></ul></details></p></ul>
 
-<ul><p>4.4.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</p></ul></ul>
+<ul><p><details open><summary>4.4.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary><ul><li><a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">天涯美男楼凭吊专用帖</a></li></ul></details></p></ul></ul>
 
 <ul>4.5 影响</ul>
 
@@ -114,7 +114,7 @@ comments: true
 
 <ul>4.6 与邓本伦的关系</ul>
 
-<ul><ul><p><li><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.6.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></li></p></ul>
+<ul><ul><p><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.6.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></p></ul>
 
 <ul><p>4.6.2 对待自家网络暴力的反噬 不应一味扮演受害者</p></ul></ul>
 
