@@ -6,11 +6,14 @@ comments: true
 ## 六界第一美男烧饼铺-实锤特供
 # 关于美男的实锤，以截图、数据为主，本店招牌，口感比较冷硬。
 
-&nbsp;
+---
+    食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。
+    
+---
 
 + **1. 后援会: 集资坏账**
 
-    - <p><details><summary>1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary><ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网点名邓伦新闻网址</a></li><li><a href="{{ site.baseurl }}/shichui.html">集资坏账</a></li></ul></details></p>
+    - <p><details open><summary>1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary><ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网点名邓伦新闻网址</a></li><li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">烧饼宴背后的后援会乱账</a></li></ul></details></p>
   
     - 1.2 品牌站台事件: 合照三千八 会费不敢扒
 
@@ -30,7 +33,7 @@ comments: true
         
         - 2.1.1 金主百草枯: 双十一带货现形记 割韭菜割到了钢筋
         
-        - 2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿
+        - <p><details open><summary>2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary><ul><li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li><li><details><summary>淘宝买粉发现都关注了邓伦</summary><ul><img src="{{ site.baseurl }}/images/301649439.jpg"></ul></details></li></ul></details></p>
 
         - 2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的点击量
         
@@ -38,11 +41,11 @@ comments: true
 
     - 2.2 人设崩塌
     
-        - <p><details><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary><ul><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜中邓伦的替身们</a></li></ul></details></p>
+        - <p><details open><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary><ul><li><a href="#">香蜜收视率与邓伦出场时长负相关</a></li></ul></details></p>
         
-        - <p><details><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary><ul><li><a href="#">香蜜期间轧戏情况整理</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li></ul></details></p>
+        - <p><details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary><ul><li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜期间轧戏情况整理</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li></ul></details></p>
         
-        - 2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人
+        - <p><details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary><ul><li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li></ul></details></p>
 
 ---
 
@@ -50,7 +53,7 @@ comments: true
 
     - 3.1 防爆: 祝你为邓伦当男二
     
-        - <p><details><summary>3.1.1 屠龙十日事件: 我从未见过如此骚操作的官博</summary><ul><li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">屠龙十日个人整理-狐阿寻</a></li><li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li></ul></details></p>
+        - <p><details open><summary>3.1.1 屠龙十日事件: 我从未见过如此骚操作的官博</summary><ul><li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li><li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li></ul></details></p>
         
         - 3.1.2 1001夜事件: 套路防爆 是谁无声无息没了姓名
 
@@ -90,7 +93,7 @@ comments: true
     
         - 原作电线 编剧徐子善受到造谣辱骂 或关博或停更
         
-        - 关心则乱因写剧评被骂退博 天涯美男楼的起源
+        - <p><details open><summary>关心则乱因写剧评被骂退博 天涯美男楼的起源</summary><ul><li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评存档">关心则乱香蜜剧评存档</a></li><li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼的遗址</a></li></ul></details></p>
         
         - 阅文写手被问候四岁儿致郁
         
