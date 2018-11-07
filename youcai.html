@@ -5,7 +5,7 @@ layout: default
 
 <h1>歌颂美男的诗词歌赋，散发着油菜花的香气，赏心悦目，入口即化，口感酥滑。</h1>
 
-<br>
+<hr>
 
 <ul>
   <li>
@@ -13,38 +13,37 @@ layout: default
 <ul>
 {%for post in site.posts %}
        {% if post.tag == '评' %}
-            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.tag }}·{{ post.label }}</a></li>
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
 </ul>
-<br>
-
+<hr>
   <li>
     <p><strong>2. 诗词歌赋</strong></p>
       <ul>
 {%for post in site.posts %}
        {% if post.tag == '文' %}
-            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.tag }}·{{ post.label }}</a></li>
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
 </ul>
-<br>
+<hr>
   <li>
     <p><strong>3. 美图品鉴</strong></p>
        <ul>
 {%for post in site.posts %}
        {% if post.tag == '图' %}
-            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.tag }}·{{ post.label }}</a></li>
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
 </ul>
-<br>
+<hr>
   <li>
     <p><strong>4. 心路感言</strong></p>
       <ul>
 {%for post in site.posts %}
        {% if post.tag == '感' %}
-            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.tag }}·{{ post.label }}</a></li>
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
         {% endif %}
 {% endfor %}
 </ul>
