@@ -58,8 +58,6 @@ comments: true
     - 3.2 插刀: 祝你有个邓伦一样的好朋友
     
         - [3.2.1 INS未回关事件: 走过最长的路是邓伦的套路](https://www.zhihu.com/question/296027277)
-        (对于微博热搜邓伦没回关杨紫ins怎么看？ - 希微的回答 - 知乎
-https://www.zhihu.com/question/296027277/answer/500441961)
         
         - 3.2.2 11月2日声明事件: 能不能安静的解绑
 
