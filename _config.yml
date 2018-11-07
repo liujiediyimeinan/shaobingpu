@@ -1,0 +1,43 @@
+# Jekyll configuration
+
+name: 六界第一美男烧饼铺
+description: 欢迎来到邓伦团队倾力打造的2018年度魔幻现实主义大饼仓
+
+# url is currently only used only for the RSS feed in feed.xml
+url: https://liujiediyimeinan.github.io/shaobingpu
+
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''/shaobingpu
+baseurl: 
+
+# These can be '' to hide the Github or Gitlab nav buttons
+github: 'liujiediyimeinan/shaobingpu'
+gitlab: ''
+
+collections:
+  authors:
+
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
+
+# The 'comments' setting enables comments. You'll need to select either
+# disqus or isso below to choose a comment system. Individual posts can
+# override 'comments' to disable on a post-by-post basis.
+comments: true
+
+# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
+isso: ''
+
+# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
+disqus: ''
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE']

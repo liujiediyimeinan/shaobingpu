@@ -1,0 +1,34 @@
+<div class="sidebar well">
+{{ site.description }}
+</div>
+
+<div class="sidebar well">
+    <h1>实锤特供</h1>
+    <ul>
+        <li><a href="{{ site.baseurl }}/shichui.html">特供菜单</a></li>
+        <li><a href="{{ site.baseurl }}/shichui.html">集资坏账</a></li>
+        <li><a href="{{ site.baseurl }}/youcai.html">虚假流量</a></li>
+        <li><a href="{{ site.baseurl }}/daiyan.html">恶性营销</a></li>
+        <li><a href="http://www.12377.cn/node_552908.htm">网络暴力</a></li>
+</ul>
+</div>
+
+<div class="sidebar well">
+    <h1>客官有请</h1>
+    <ul>
+        <li><a href="{{ site.baseurl }}/huanying.html">欢迎光临</a></li>
+        <li><a href="{{ site.baseurl }}/shichui.html">实锤特供</a></li>
+        <li><a href="{{ site.baseurl }}/youcai.html">油菜佐食</a></li>
+        <li><a href="{{ site.baseurl }}/daiyan.html">忌口清单</a></li>
+        <li><a href="http://www.12377.cn/node_552908.htm">举手之劳</a></li>
+</ul>
+</div>
+
+<div class="sidebar well">
+    <h1>新饼尝鲜</h1>
+    <ul>
+        {% for post in site.posts limit:5 %}
+          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.tag }}·{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
