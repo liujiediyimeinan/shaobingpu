@@ -7,7 +7,7 @@ comments: true
 # 关于美男的实锤，以截图、数据为主，本店招牌，口感比较冷硬。
 
 
-    食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。
+    食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。所有"*"标示的地方都还没有搬过来，正在不断完善中。
 
 ---
 
@@ -48,10 +48,8 @@ comments: true
 
 1.3 与邓本伦的关系: 工作室直管后援会 邓伦100%控股人
 
-<ul><details open><summary>1.3.1 后援会爆出受工作室直辖</summary>
-</details>
-<details open><summary>1.3.2 邓伦是工作室全权控股人</summary><ul>
-<li><details><summary>点击就看邓伦工作室百科介绍</summary><img src="{{ site.baseurl }}/images/sb22.png"></details></li></ul>
+<ul><details><summary>1.3.1 后援会爆出受工作室直辖</summary><img src="{{ site.baseurl }}/images/sb18.png"></details>
+<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/sb22.png">
 </details>
 </ul>
 
@@ -71,16 +69,16 @@ comments: true
 <li><a href="#">*'顶流'里的赶客伦 数据掰头现真身</a></li>
 </ul></details>
 
-<details open><summary>2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
+<details><summary>2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
+<li><a href="#">*饼族夜游的百度指数</a></li>
 <li><details><summary>淘宝买粉 发现水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
-
 </ul></details>
 
-<details><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
+<details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
-<li><a href="#">*饼族夜游的百度指数</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆操作</a></li>
 <li><a href="#">*兔区海军翻页勤</a></li></ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
@@ -94,7 +92,8 @@ comments: true
 
 <ul>
 <details open><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜收视率与邓伦出场时长负相关</a></li>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜收视率与邓伦出场时长负相关</a></li>
 <li><a href="#">香蜜后快本收视又天坑</a></li>
 </ul></details>
 
@@ -177,11 +176,11 @@ comments: true
 <ul>4.1 人肉造谣
 
 <ul>
-<details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
+<details><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
 <ul><li><a href="#">*一天人肉一个人 直到你们全脱粉</a></li>
 </ul></details>
 
-<details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
+<details><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
 <li><a href="#">*那些年海军自相矛盾的谣言</a></li>
 <li><a href="#">*那些年海军事与愿违的真相</a></li>
@@ -190,7 +189,7 @@ comments: true
 4.2 人身攻击
 
 <ul>
-<details open><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
+<details><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
 <ul><li><a href="#">*追着作者骂的淑芬 追着编剧骂的剧粉</a></li>
 </ul></details>
 
@@ -201,15 +200,15 @@ comments: true
 <li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼的遗址</a></li>
 </ul></details>
 
-<details open><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
+<details><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
 <ul>
 <li><a href="#">*一位无辜写手的自白</a></li>
 </ul></details>
 
 <details open><summary>4.2.4 部分粉丝大战八方屠遍六界</summary>
 <ul>
-<li><a href="#">*为香蜜制作团队送花圈</a></li>
-<li><a href="#">*乐乎作者删文事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/乐乎作者删文">乐乎作者删文事件</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.jpg"></details></li>
 </ul></details>
 </ul>
@@ -241,7 +240,7 @@ comments: true
 
 <details open><summary>4.4.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="#">*知乎降赞封号统计帖</a></li>
-<li><a href="#">*饼心姐姐当场去世</a></li>
+<li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">天涯美男楼凭吊专用帖</a></li>
 </ul></details>
 </ul>
@@ -254,7 +253,7 @@ comments: true
 </ul></details>
 
 <details open><summary>4.5.2 饼芯姐姐谈邓伦团队存在的问题</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">*一位饼芯姐姐的脱粉感言</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">一位饼芯姐姐的脱粉感言</a></li>
 </ul></details>
 </ul>
 
