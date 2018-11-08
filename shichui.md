@@ -34,8 +34,7 @@ comments: true
 
 <ul>
 <details><summary>1.2.1 生日开屏事件: 逃税为省钱 整治成空言</summary>
-<ul><li><a href="#">*问题后援会会长继续转任地方负责人</a></li>
-<li><a href="#">*要开发票就要多交钱？</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">不加整治 继续集资 账款不明 公然逃税</a></li>
 </ul></details>
 
 <details><summary>1.2.2 打榜冲销量事件: 公益是集资最后的遮羞布吗</summary>
@@ -116,7 +115,7 @@ comments: true
 2.3 与邓本伦的关系
 
 <ul>
-<details open><summary>2.3.1 生日在线摆摊 娱乐圈无人问津</summary></details>
+<details open><summary>2.3.1 生日在线摆摊 娱乐圈无人问津</summary><ul><li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日摆摊 圈内无人祝愿</a></li></ul></details>
 </ul>
 
 </ul>
@@ -133,11 +132,12 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
 <li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
+<li><details><summary>点击就看香蜜超话:四番粉与狗不得入内</summary><img src="{{ site.baseurl }}/images/301805237.jpg"></details></li>
 </ul></details>
 
 <details open><summary>3.1.2 1001夜事件: 套路防爆 是谁无声无息没了姓名</summary>
 <ul>
-<li><a href="#">伦式剧粉的套路操作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/直击网暴现场">直击网暴现场</a></li>
 </ul></details>
 </ul>
 
@@ -154,7 +154,7 @@ comments: true
 <ul>
 <details><summary>3.3.1 前女友复合事件: 迪奥又做错了什么</summary>
 <ul><li><a href="#">*一条手链引发的血案</a></li>
-<li><a href="#">*当海军走错片场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a></li>
 </ul></details>
 
 <details><summary>3.3.2 惯例联动营销号 防爆拉踩炒作</summary>
@@ -208,6 +208,7 @@ comments: true
 <ul>
 <li><a href="#">*为香蜜制作团队送花圈</a></li>
 <li><a href="#">*乐乎作者删文事件</a></li>
+<li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.jpg"></details></li>
 </ul></details>
 </ul>
 
@@ -219,7 +220,8 @@ comments: true
 <details open><summary>*4.3.2 故宫小姐姐被投诉事件</summary>
 <ul></ul></details>
 <details open><summary>*4.3.3 背背佳蓝V被挂黑事件</summary>
-<ul></ul></details>
+<ul><li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li></ul></details>
+
 <details><summary>*4.3.4 部分粉丝在线作妖</summary>
 <ul><li><a href="#">*QQ群里教盗号</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
