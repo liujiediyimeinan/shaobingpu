@@ -23,6 +23,7 @@ comments: true
 
 <details open><summary>1.1.2 品牌站台事件: 合照三千八 会费不敢扒</summary>
 <ul>
+<li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 继续集资账款不明</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/借会费之名疑非法集资">VIP会员背后的百万集资疑云</a></li></ul></details>
 
 <details><summary>1.1.3 快本应援事件: 那一笔笔算不清的帐啊</summary>
@@ -34,7 +35,7 @@ comments: true
 
 <ul>
 <details><summary>1.2.1 生日开屏事件: 逃税为省钱 整治成空言</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">不加整治 继续集资 账款不明 公然逃税</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 公然逃税</a></li>
 </ul></details>
 
 <details><summary>1.2.2 打榜冲销量事件: 公益是集资最后的遮羞布吗</summary>
@@ -49,7 +50,8 @@ comments: true
 
 <ul><details open><summary>1.3.1 后援会爆出受工作室直辖</summary>
 </details>
-<details open><summary>1.3.2 邓伦是工作室全权控股人</summary>
+<details open><summary>1.3.2 邓伦是工作室全权控股人</summary><ul>
+<li><details><summary>点击就看邓伦工作室百科介绍</summary><img src="{{ site.baseurl }}/images/sb22.png"></details></li></ul>
 </details>
 </ul>
 
