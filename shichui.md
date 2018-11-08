@@ -247,12 +247,12 @@ comments: true
 4.5 影响
 
 <ul>
-<details><summary>4.5.1 邓伦活跃粉丝中有许多未成年人</summary>
-<ul><li><a href="#">*几个邓伦活跃大粉的年龄披露</a></li>
+<details><summary>4.5.1 邓伦粉圈对未成年人的心理影响</summary>
+<ul><li><a href="#">*和脱粉的邓伦初中粉丝的聊天记录</a></li>
 </ul></details>
 
-<details open><summary>4.5.2 从脱粉个例 看邓伦粉圈对未成年人的心理影响</summary>
-<ul><li><a href="#">*和脱粉的邓伦初中粉丝的聊天记录</a></li>
+<details open><summary>4.5.2 饼芯姐姐谈邓伦团队存在的问题</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">*一位饼芯姐姐的脱粉感言</a></li>
 </ul></details>
 </ul>
 
