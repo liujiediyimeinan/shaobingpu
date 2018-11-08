@@ -220,7 +220,7 @@ comments: true
 <ul></ul></details>
 <details open><summary>*4.3.3 背背佳蓝V被挂黑事件</summary>
 <ul></ul></details>
-<details open><summary>*4.3.4 部分粉丝在线作妖</summary>
+<details><summary>*4.3.4 部分粉丝在线作妖</summary>
 <ul><li><a href="#">*QQ群里教盗号</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
 <li><details open><summary>与DXJJ切磋后账号异常</summary><img src="{{ site.baseurl }}/images/301780110.jpg"><img src="{{ site.baseurl }}/images/301780111.jpg"></details></li></ul></details>
