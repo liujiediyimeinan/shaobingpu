@@ -67,6 +67,7 @@ comments: true
 <ul>
 <details open><summary>2.1.1 金主百草枯: 双十一带货现形记 割韭菜割到了钢筋</summary>
 <ul><li><a href="#">*大金瓶解锁失败 品牌声誉反遭反噬</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜相关带货情况">淘宝香蜜相关带货情况</a></li>
 <li><a href="#">*'顶流'里的赶客伦 数据掰头现真身</a></li>
 </ul></details>
 
@@ -191,7 +192,7 @@ comments: true
 
 <ul>
 <details><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
-<ul><li><a href="#">*追着作者骂的淑芬 追着编剧骂的剧粉</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号统计</a></li>
 </ul></details>
 
 <details open><summary>4.2.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary>
