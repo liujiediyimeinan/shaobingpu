@@ -85,7 +85,7 @@ comments: true
 <ul>
 <li><a href="#">*躲得过马云躲不过邓伦</a></li>
 <li><a href="#">*无法直立行走的挂件伦</a></li>
-<li><a href="#">*水军勤勤恳恳 美男楼指哪打哪</a></li></ul></details>
+<li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">*水军勤勤恳恳 美男楼指哪打哪</a></li></ul></details>
 </ul>
 
 2.2 人设崩塌
