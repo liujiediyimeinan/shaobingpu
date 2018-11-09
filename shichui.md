@@ -128,7 +128,7 @@ comments: true
 <ul>3.1 防爆: 如果你为邓伦当男二
 
 <ul>
-<details open><summary>3.1.1 屠龙十日事件: 教科书般的按地摩擦</summary>
+<details open><summary>3.1.1 屠龙十日事件: 载入史册的按地摩擦</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
 <li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li>
@@ -143,10 +143,10 @@ comments: true
 </ul>
 
 3.2 插刀: 如果你有个邓伦一样的好朋友
-
 <ul>
-<details open><summary>3.2.1 INS未回关事件: 你可以放过我了 真的</summary>
-<ul><li><a href="#">*灭花事件前因后果</a></li>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.2.1 凳子CP炒作相关</a></summary></details>
+<details open><summary>3.2.2 INS未回关事件:走过最长的路是你的套路</summary>
+<ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
 </ul></details>
 </ul>
 
@@ -166,6 +166,7 @@ comments: true
 
 3.4 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
 
+<ul><details><summary>3.4.1 恶性营销总结: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details></ul>
 </ul>
 
 
@@ -241,6 +242,7 @@ comments: true
 <details open><summary>4.4.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="#">*知乎降赞封号统计帖</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 <li><a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">天涯美男楼凭吊专用帖</a></li>
 </ul></details>
 </ul>
