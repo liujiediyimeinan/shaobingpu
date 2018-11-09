@@ -170,7 +170,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
 </ul></details>
 
-<details><summary>3.3.2 惯例联动营销号 防爆拉踩炒作</summary>
+<details open><summary>3.3.2 惯例联动营销号 防爆拉踩炒作</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">营销号:一家人就是要整整齐齐</a></li>
 </ul></details>
 
@@ -194,7 +194,7 @@ comments: true
 
 <details><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史作品集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li>
 <li><a href="#">*那些年海军事与愿违的真相</a></li>
 </ul></details></ul>
 
