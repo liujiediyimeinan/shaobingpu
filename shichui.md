@@ -161,7 +161,7 @@ comments: true
 </ul></details>
 
 <details><summary>3.3.2 惯例联动营销号 防爆拉踩炒作</summary>
-<ul><li><a href="#">*一家人就是要整整齐齐</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">营销号:一家人就是要整整齐齐</a></li>
 </ul></details>
 
 </ul>
