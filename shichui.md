@@ -251,6 +251,7 @@ comments: true
 
 <details open><summary>4.4.2 饼芯姐姐谈邓伦团队存在的问题</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">一位饼芯姐姐的脱粉感言</a></li>
+<li><a href="http://bbs.tianya.cn/post-funinfo-7691224-3.shtml">一位天涯人的脱粉现场</a></li>
 </ul></details>
 </ul>
 
