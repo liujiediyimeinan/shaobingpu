@@ -115,6 +115,18 @@ img {
   font-weight:bold;
   font-size:1.1em;
 }
+.well1 ul{
+  padding-left:0;
+  padding-right:0;
+  padding-top:0;
+  padding-bottom:.8;
+  margin-top: 0.5em;
+  margin-bottom: 0.8em;
+  margin-left:3%;
+  font-weight:normal;
+  font-size:1.1em;
+}
+
 .well1 ul ul{
   margin-top: 0.3em;
   margin-bottom: 0.5em;

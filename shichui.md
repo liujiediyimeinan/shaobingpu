@@ -48,7 +48,7 @@ comments: true
 
 1.3 与邓本伦的关系: 工作室直管后援会 邓伦100%控股人
 
-<ul><details><summary>1.3.1 后援会爆出受工作室直辖</summary><img src="{{ site.baseurl }}/images/sb18.png"></details>
+<ul><details><summary>1.3.1 后援会爆出受工作室直辖</summary><img src="{{ site.baseurl }}/images/sb18.png"><img src="{{ site.baseurl }}/images/301702177.jpg"></details>
 <details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/sb22.png">
 </details>
 </ul>
@@ -147,6 +147,8 @@ comments: true
 <details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.2.1 凳子CP炒作相关</a></summary></details>
 <details open><summary>3.2.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
+<ul><li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
+
 </ul></details>
 </ul>
 
