@@ -165,7 +165,7 @@ comments: true
 
 <ul>
 <details><summary>3.3.1 前女友复合事件: 迪奥又做错了什么</summary>
-<ul><li><a href="#">*一条手链引发的血案</a></li>
+<ul><li><a href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">一条手链引发的血案</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
 </ul></details>
