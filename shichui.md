@@ -75,8 +75,8 @@ comments: true
 <ul>
 <details open><summary>2.1.1 金主百草枯: 双十一带货现形记 割韭菜割到了钢筋</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/欧莱雅大金瓶相关">大金瓶解锁任务:双十一带货好艰难</a></li>
+<li><a href="https://www.zhihu.com/question/300320084/answer/520677091">知乎:如何看待欧莱雅解锁失败?</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜相关带货情况">淘宝香蜜相关带货情况</a></li>
-<li><a href="#">*'顶流'里的赶客伦 数据掰头现真身</a></li>
 </ul></details>
 
 <details><summary>2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
