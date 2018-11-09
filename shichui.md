@@ -147,9 +147,7 @@ comments: true
 <details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.2.1 凳子CP炒作相关</a></summary></details>
 <details open><summary>3.2.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
-<ul><li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
-
-</ul></details>
+<li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li></ul></details>
 </ul>
 
 3.3 炒作: 如果你和邓伦扯上关系
@@ -170,7 +168,6 @@ comments: true
 
 <ul><details><summary>3.4.1 恶性营销总结: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details></ul>
 </ul>
-
 
 ---
 
