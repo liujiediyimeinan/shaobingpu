@@ -36,7 +36,7 @@ comments: true
 <ul>
 <details open><summary>1.2.1 打榜冲销量事件: 公益是集资最后的遮羞布吗</summary>
 <ul>
-<li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">大金瓶:公益冲销量 非公开集资 赚孩子零花钱</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">粉丝爆料大金瓶:公益冲销量 非公开集资 赚孩子零花钱</a></li>
 <li><a href="#">*果酱爱豆榜:打榜失败 公益挽尊？</a></li>
 </ul></details>
 
