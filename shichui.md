@@ -17,8 +17,9 @@ comments: true
 
 <ul>
 <details open><summary>1.1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary>
-<ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网点名邓伦新闻网址</a></li>
+<ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">烧饼宴背后的后援会乱账</a></li>
+<li><a href="https://www.zhihu.com/question/294162103/answer/489335334">知乎:多次应援款项下落不明</a></li>
 </ul></details>
 
 <details open><summary>1.1.2 品牌站台事件: 合照三千八 会费不敢扒</summary>
@@ -46,17 +47,24 @@ comments: true
 
 </ul>
 
-
 1.3 与邓本伦的关系: 工作室直管后援会 邓伦100%控股人
 
-<ul><details><summary>1.3.1 后援会爆出受工作室直辖</summary><img src="{{ site.baseurl }}/images/sb18.png"><img src="{{ site.baseurl }}/images/301702177.jpg"></details>
-<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/sb22.png">
-</details>
+<ul>
+
+<details open><summary>1.3.1 后援会爆出受工作室直辖</summary>
+<ul>
+<li><a href="https://www.zhihu.com/question/294162103/answer/490270211">一些指向后援会受工作室管辖的证据</a></li>
+<li><details><summary>来自其他途径的爆料图</summary><img src="{{ site.baseurl }}/images/301702177.jpg"></details></li>
 </ul>
+</details>
+
+<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/sb22.png"></details>
+
 
 </ul>
-  
-  
+</ul>
+
+
 ---
 
 # **2. 邓本伦: 虚假流量**
@@ -81,7 +89,7 @@ comments: true
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆操作</a></li>
-<li><a href="#">*兔区海军翻页勤</a></li></ul></details>
+<li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区海军爆笑掉皮事件</a></li></ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
@@ -118,7 +126,7 @@ comments: true
 2.3 与邓本伦的关系
 
 <ul>
-<details open><summary>2.3.1 生日在线摆摊 娱乐圈无人问津</summary><ul><li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日摆摊 圈内无人祝愿</a></li></ul></details>
+<details open><summary>2.3.1 生日在线摆摊 娱乐圈几乎无人问津</summary><ul><li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日摆摊 圈内几乎无人祝愿</a></li></ul></details>
 </ul>
 
 </ul>
