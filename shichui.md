@@ -212,61 +212,54 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/乐乎作者删文">乐乎作者删文事件</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.jpg"></details></li>
 </ul></details>
-</ul>
 
-4.3 四处滋事
-
+<details><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
 <ul>
-<details open><summary>*4.3.1 罗家粉圈卧底事件</summary>
-<ul></ul></details>
-<details open><summary>*4.3.2 故宫小姐姐被投诉事件</summary>
-<ul></ul></details>
-<details open><summary>*4.3.3 背背佳蓝V被挂黑事件</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li></ul></details>
-
-<details><summary>*4.3.4 部分粉丝在线作妖</summary>
-<ul><li><a href="#">*QQ群里教盗号</a></li>
+<li>*罗家粉圈卧底事件</li>
+<li>*故宫小姐姐被投诉事件</li>
+<li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li>
+<li><a href="#">*QQ群里教盗号</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/工作室10月声明相关">与DXJJ切磋后账号异常</a></li>
 </ul></details>
 </ul>
 
-4.4 六界封杀
+4.3 六界封杀
 
 <ul>
-<details open><summary>4.4.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
+<details open><summary>4.3.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣专组高赞剧照消失事件</a></li>
 <li><a href="#">*b站润玉剧情剪辑下架事件</a></li>
 </ul></details>
 
-<details open><summary>4.4.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
+<details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="#">*知乎降赞封号统计帖</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 <li><a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">天涯美男楼凭吊专用帖</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
 </ul>
 
-4.5 影响
+4.4 影响
 
 <ul>
-<details><summary>4.5.1 邓伦粉圈对未成年人的心理影响</summary>
+<details><summary>4.4.1 邓伦粉圈对未成年人的心理影响</summary>
 <ul><li><a href="#">*和脱粉的邓伦初中粉丝的聊天记录</a></li>
 </ul></details>
 
-<details open><summary>4.5.2 饼芯姐姐谈邓伦团队存在的问题</summary>
+<details open><summary>4.4.2 饼芯姐姐谈邓伦团队存在的问题</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">一位饼芯姐姐的脱粉感言</a></li>
 </ul></details>
 </ul>
 
-4.6 与邓本伦的关系
+4.5 与邓本伦的关系
 
 <ul>
-<details><summary>4.6.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</summary>
+<details><summary>4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">值得借鉴的约束粉丝的方式</a></li>
 </ul></details>
 
-<details><summary>4.6.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<details><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
 <ul><li><a href="#">*11月2日网暴声明事件</a></li>
 </ul></details>
 </ul>
