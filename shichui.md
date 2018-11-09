@@ -191,8 +191,8 @@ comments: true
 4.2 人身攻击
 
 <ul>
-<details><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号统计</a></li>
+<details open><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号成分统计</a></li>
 </ul></details>
 
 <details open><summary>4.2.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary>
