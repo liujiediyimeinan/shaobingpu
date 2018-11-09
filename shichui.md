@@ -88,7 +88,7 @@ comments: true
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆操作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区海军爆笑掉皮事件</a></li></ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
@@ -105,7 +105,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜收视率与邓伦出场时长负相关</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a></li>
-<li><a href="#">香蜜后快本收视又天坑</a></li>
+<li><a href="#">*香蜜后快本收视又天坑</a></li>
 </ul></details>
 
 <details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
