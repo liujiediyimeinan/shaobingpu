@@ -142,8 +142,9 @@
 <!--New images on load -->
 <script>
 //Add your images, we'll set the path in the next step
-    var images = ['301825819.jpg','301787929.jpg','301752266.jpg','301858786.jpg','301850283.gif','301828012.gif','301828020.gif','301828026.gif'
-    ];
+    var images = ['301825819.jpg','301787929.jpg','301752266.jpg','301858786.jpg','301850283.gif','301828012.gif',
+    '301828020.gif','301828026.gif',
+    '301815513.jpg'];
 
 //Build the img, then do a bit of maths to randomize load and append to a div. Add a touch off css to fade them badboys in all sexy like.
     $('<img class="fade-in" src="images/' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
