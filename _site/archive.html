@@ -1,4 +1,28 @@
 <!DOCTYPE html>
+<head>
+
+<!--Little CSS fade in -->
+<style>
+.fade-in{
+  -webkit-animation: fade-in .5s ease;
+  -moz-animation: fade-in ease-in-out .5s both;
+  -ms-animation: fade-in ease-in-out .5s both;
+  -o-animation: fade-in ease-in-out .5s both;
+  animation: fade-in .5s ease;
+  visibility: visible;
+  -webkit-backface-visibility: hidden;
+}
+
+@-webkit-keyframes fade-in{0%{opacity:0;} 100%{opacity:1;}}
+@-moz-keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+@-o-keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+@keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+
+</style>
+</head>
+<body>
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -488,6 +512,22 @@
 </ul>
 
                 </div>
+
+                <!--We appendin' on this div - ps: ids make sense here... punk-->
+<div id="banner-load"></div>
+
+<!--Don't forget Jquery-->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+
+<!--New images on load -->
+<script>
+//Add your images, we'll set the path in the next step
+    var images = ['301828442.jpg', '301828444.jpg','301825819.jpg','301787929.jpg','301752266.jpg'];
+
+//Build the img, then do a bit of maths to randomize load and append to a div. Add a touch off css to fade them badboys in all sexy like.
+    $('<img class="fade-in" src="images/' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
+</script>
+
             </div>
             </div>
         </div>
@@ -497,8 +537,9 @@
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="span12 footer navbar-inverse navbar-fixed-bottom">
-            <p class="copyright">&copy;2018 六界第一美男烧饼铺. Powered by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons</a>.
-            </p>
+            <p class="copyright">&copy;2018 六界第一美男烧饼铺. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons</a>
+            under
+            <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</a></p>
         </div>
     </div>
 </div>
@@ -511,3 +552,10 @@
 </body>
 </html>
 
+
+
+
+
+
+</body>
+</html>
