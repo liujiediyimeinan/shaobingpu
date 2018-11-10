@@ -59,7 +59,7 @@ comments: true
 </ul>
 </details>
 
-<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/sb22.png"></details>
+<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/chigu.jpg"></details>
 
 
 </ul>
