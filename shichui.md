@@ -90,7 +90,7 @@ comments: true
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区海军爆笑掉皮事件</a></li></ul></details>
+</ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
@@ -193,10 +193,9 @@ comments: true
 <ul><li><a href="#">*一天人肉一个人 直到你们全脱粉</a></li>
 </ul></details>
 
-<details><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
+<details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li>
-<li><a href="#">*那些年海军事与愿违的真相</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
 </ul></details></ul>
 
 4.2 人身攻击
@@ -210,7 +209,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评存档">关心则乱香蜜剧评存档</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评始末">关大退博事件始末</a></li>
-<li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼的遗址</a></li>
+<li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼遗址</a> | <a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">美男楼凭吊专用帖</a></li>
 </ul></details>
 
 <details><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
@@ -247,7 +246,7 @@ comments: true
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="#">*知乎降赞封号统计帖</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">天涯美男楼凭吊专用帖</a></li>
+<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301869841.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
 </ul>
