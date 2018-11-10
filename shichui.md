@@ -18,17 +18,18 @@ comments: true
 <ul>
 <details open><summary>1.1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary>
 <ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">烧饼宴乱账之一</a> | <a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账之二">烧饼宴乱账之二</a> |  <a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账之三">烧饼宴乱账之三</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">多方剖析烧饼宴背后的乱账</a></li>
 </ul></details>
 
 <details open><summary>1.1.2 品牌站台事件: 合照三千八 会费不敢扒</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 继续集资账款不明</a></li>
-<li><a href="{{ site.baseurl}}/2018/11/借会费之名疑非法集资">VIP会员背后的百万集资疑云</a></li></ul></details>
+<li><a href="{{ site.baseurl}}/2018/11/后援会工作室背后疑云">饼芯姐姐爆料后援会工作室问题重重</a></li>
+</ul></details>
 
-<details open><summary>1.1.3 快本应援事件: 那一笔笔算不清的帐啊</summary>
+<details open><summary>1.1.3 快本公益储蓄罐: 那一笔笔算不清的帐啊</summary>
 <ul>
-<li><a href="https://www.zhihu.com/question/294162103/answer/489335334">知乎:多次应援款项下落不明</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/后援会多次集资账款不明">后援会多次集资账目不明 VIP会员费总计达95万</a></li>
 </ul></details>
 </ul>
 
@@ -37,7 +38,7 @@ comments: true
 <ul>
 <details open><summary>1.2.1 打榜冲销量事件: 公益是集资最后的遮羞布吗</summary>
 <ul>
-<li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">粉丝爆料大金瓶:公益冲销量 非公开集资 赚孩子零花钱</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">初中粉丝爆料大金瓶:公益冲销量 非公开集资 赚人零花钱</a></li>
 <li><a href="#">*果酱爱豆榜:打榜失败 公益挽尊？</a></li>
 </ul></details>
 
@@ -95,7 +96,7 @@ comments: true
 <ul>
 <li><a href="#">*躲得过马云躲不过邓伦</a></li>
 <li><a href="#">*无法直立行走的挂件伦</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">*水军勤勤恳恳 美男楼指哪打哪</a></li></ul></details>
+<li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">楼友指哪打哪 水军勤勤恳恳 </a></li></ul></details>
 </ul>
 
 2.2 人设崩塌
