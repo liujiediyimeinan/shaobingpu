@@ -104,12 +104,12 @@ comments: true
 <ul>
 <details open><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜收视率与邓伦出场时长负相关</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜/1001夜的收视率与邓伦出场时长负相关</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a></li>
 <li><a href="#">*香蜜后快本收视又天坑</a></li>
 </ul></details>
 
-<details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
+<details><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜期间轧戏情况整理</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="#">*邓伦: 我不在 剧组开不了工</a></li>
@@ -119,7 +119,9 @@ comments: true
 
 <details><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li><li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
+<li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
+<li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="#">*早恋打架的退校经历 漫画小王子的校草阴影</a></li>
 </ul></details>
 </ul>
@@ -222,6 +224,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/乐乎作者删文">乐乎作者删文事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.jpg"></details></li>
 </ul></details>
 
@@ -241,11 +244,11 @@ comments: true
 <ul>
 <details open><summary>4.3.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣专组高赞剧照消失事件</a></li>
-<li><a href="#">*b站润玉剧情剪辑下架事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/产出区的灾殃">b站乐乎等产出区受灾情况合集</a></li>
 </ul></details>
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
-<ul><li><a href="#">*知乎降赞封号统计帖</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301869841.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
