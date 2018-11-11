@@ -205,7 +205,7 @@ comments: true
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/卡黑谣言澄清声明">卡黑对谣言的澄清声明</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/信口造谣卡黑澄清">疑邓伦粉信口造谣 反黑组卡黑澄清声明</a></li>
 </ul></details></ul>
 
 4.2 人身攻击
