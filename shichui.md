@@ -113,8 +113,7 @@ comments: true
 
 <details><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜期间轧戏情况整理</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
-<li><a href="#">*邓伦: 我不在 剧组开不了工</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦:我这两天不在 剧组开不了工</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="#">*滚筒洗衣机从不自己练习</a></li>
 <li><a href="#">*香蜜现场工作人员爆料</a></li>
 </ul></details>
@@ -149,6 +148,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
 <li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
+<li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 <li><details><summary>点击就看香蜜超话:四番粉与狗不得入内</summary><img src="{{ site.baseurl }}/images/301805237.jpg"></details></li>
 <li><details><summary>点击就看香蜜小组:润玉粉哪与润玉最像</summary><img src="{{ site.baseurl }}/images/301865815.jpg"></details></li>
 </ul></details>
@@ -164,7 +164,9 @@ comments: true
 <details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.2.1 凳子CP炒作相关</a></summary></details>
 <details open><summary>3.2.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
-<li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li></ul></details>
+<li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
+<li><details><summary>点击就看灭花三部曲</summary><img src="{{ site.baseurl }}/images/mhsbq.png"></details></li>
+</ul></details>
 </ul>
 
 3.3 炒作: 如果你和邓伦扯上关系
@@ -196,13 +198,14 @@ comments: true
 <ul>4.1 人肉造谣
 
 <ul>
-<details><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
-<ul><li><a href="#">*一天人肉一个人 直到你们全脱粉</a></li>
+<details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">邓伦粉丝长期多次人肉网友合集</a></li>
 </ul></details>
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/卡黑谣言澄清声明">卡黑对谣言的澄清声明</a></li>
 </ul></details></ul>
 
 4.2 人身攻击
@@ -230,7 +233,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/乐乎作者删文">乐乎作者删文事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a></li>
-<li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.jpg"></details></li>
+<li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 </ul></details>
 
 <details><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
@@ -255,7 +258,7 @@ comments: true
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301869841.jpg"></details></li>
+<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
 </ul>
