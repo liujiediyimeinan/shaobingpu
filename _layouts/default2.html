@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+</head>
+<body>
+
+{% include header.html %}
+
+<div class="container container-left">
+    <div class="row">
+        <div class="col-md-3 hidden-xs">
+            {% include sidebar.html %}
+        </div>
+        <div class="col-md-9">
+            <div class="article">
+            <div class="well">
+                <div class="post-content">
+                {{ content }}
+                </div>
+            </div>
+            </div>
+
+        </div>
+        <center>&copy;{{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons.</a></center>
+
+    </div>
+</div>
+
+
+
+
+</body>
+</html>
