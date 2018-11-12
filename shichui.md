@@ -16,22 +16,19 @@ comments: true
 <ul>1.1 大量集资 账目不清 用途不明
 
 <ul>
-<details open><summary>1.1.1 真朋友应援事件: 九万烧饼宴 喜提人民网</summary>
+<details open><summary>1.1.1 以真朋友应援事件为例: 九万烧饼宴 喜提人民网</summary>
 <ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">多方剖析烧饼宴背后的乱账</a></li>
 </ul></details>
 
-<details open><summary>1.1.2 品牌站台事件: 合照三千八 会费不敢扒</summary>
+<details open><summary>1.1.2 后援会集资名目繁多数额庞大 账目管理漏洞多</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 继续集资账款不明</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/后援会多次高额集资问题">后援会多次高额集资 41天达120万</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/后援会问题曝光后的回应">后援会问题曝光后的回应</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/后援会工作室背后疑云">饼芯姐姐爆料后援会工作室问题重重</a></li>
 </ul></details>
 
-<details open><summary>1.1.3 快本公益储蓄罐: 钱都到哪里去了</summary>
-<ul>
-<li><a href="{{ site.baseurl}}/2018/11/后援会多次集资账款不明">后援会多次集资账目不明 VIP会员费总计达95万</a></li>
-<li><a href="{{ site.baseurl}}/2018/11/公公直管VIP群的聊天记录">经纪人聊天爆料:掌握VIP后援会动态 了解账目问题并包庇</a></li>
-</ul></details>
+
 </ul>
 
 1.2 不当金钱观 带坏青少年
@@ -40,10 +37,10 @@ comments: true
 <details open><summary>1.2.1 打榜冲销量事件: 公益是集资最后的遮羞布吗</summary>
 <ul>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">初中粉丝爆料大金瓶:公益冲销量 非公开集资 赚人零花钱</a></li>
-<li><a href="#">*果酱爱豆榜:打榜失败 公益挽尊？</a></li>
+<li><a href="果酱打榜相关">果酱爱豆榜:打榜失败 公益挽尊？</a></li>
 </ul></details>
 
-<details><summary>1.2.2 生日开屏事件: 逃税为省钱 整治成空言</summary>
+<details open><summary>1.2.2 生日开屏事件: 逃税为省钱 整治成空言</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 公然逃税</a></li>
 </ul></details>
 
@@ -53,14 +50,15 @@ comments: true
 
 <ul>
 
-<details open><summary>1.3.1 后援会爆出受工作室直辖</summary>
+<details open><summary>1.3.1 后援会受工作室直辖</summary>
 <ul>
+<li><a href="{{ site.baseurl}}/2018/11/公公直管VIP群的聊天记录">经纪人聊天爆料:掌握VIP后援会动态 了解账目问题并包庇</a></li>
 <li><a href="https://www.zhihu.com/question/294162103/answer/490270211">一些指向后援会受工作室管辖的证据</a></li>
 <li><details><summary>来自其他途径的爆料图</summary><img src="{{ site.baseurl }}/images/301702177.jpg"></details></li>
 </ul>
 </details>
 
-<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/chigu.jpg"></details>
+<details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/chigu.jpg"><img src="{{ site.baseurl }}/images/300356656.jpg"></details>
 
 
 </ul>
