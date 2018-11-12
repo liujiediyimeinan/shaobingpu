@@ -132,6 +132,8 @@ comments: true
 
 <ul>
 <details open><summary>2.3.1 生日在线摆摊 娱乐圈几乎无人问津</summary><ul><li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日摆摊 圈内几乎无人祝愿</a></li></ul></details>
+<details><summary>2.3.2 合作同事甚众 关系令人担忧</summary><img src="{{ site.baseurl }}/images/300349689.png"></details>
+
 </ul>
 
 </ul>
@@ -218,7 +220,7 @@ comments: true
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">部分伦粉十大神逻辑</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/信口造谣卡黑澄清">疑邓伦粉信口造谣 反黑组卡黑澄清声明</a></li>
 </ul></details></ul>
 
