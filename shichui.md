@@ -81,11 +81,12 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜相关带货情况">淘宝香蜜相关带货情况</a></li>
 </ul></details>
 
-<details><summary>2.1.2 热搜小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
+<details><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
 <li><a href="#">*饼族夜游的百度指数</a></li>
-<li><details><summary>淘宝买粉 发现水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
+<li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
@@ -108,12 +109,13 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜/1001夜的收视率与邓伦出场时长负相关</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a></li>
-<li><a href="#">*香蜜后快本收视又天坑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
 </ul></details>
 
 <details><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦:我这两天不在 剧组开不了工</a></li><li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦:我这两天不在 剧组开不了工</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="#">*滚筒洗衣机从不自己练习</a></li>
 <li><a href="#">*香蜜现场工作人员爆料</a></li>
 </ul></details>
@@ -140,55 +142,69 @@ comments: true
 
 # **3. 工作室: 恶性营销**
 
-<ul>3.1 防爆: 如果你为邓伦当男二
+<ul>3.1 综述: 手段成熟 效果显著 影响广泛
 
 <ul>
-<details open><summary>3.1.1 屠龙十日事件: 载入史册的按地摩擦</summary>
+<details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
-<li><a href="https://weibo.com/ttarticle/p/show?id=2309404298587147245682l">微博屠龙十日个人整理</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
-<li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
-<li><details><summary>点击就看香蜜超话:四番粉与狗不得入内</summary><img src="{{ site.baseurl }}/images/301805237.jpg"></details></li>
-<li><details><summary>点击就看香蜜小组:润玉粉哪与润玉最像</summary><img src="{{ site.baseurl }}/images/301865815.jpg"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">惯例联动营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
+</ul>
+</details>
+
+
+<details open><summary>3.1.2 操作成效: 目前为止切实有效</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中内网海军控舆实效</a></li>
 </ul></details>
 
-<details open><summary>3.1.2 1001夜事件: 套路防爆 是谁无声无息没了姓名</summary>
+<details><summary>3.1.3 受累对象: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details>
+</ul>
+
+
+
+3.2 防爆: 如果你为邓伦当男二
+
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/直击网暴现场">直击网暴现场</a></li>
+<details open><summary>3.2.1 屠龙十日事件: 载入史册的按地摩擦</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜男二受网暴情况节选">香蜜男二受网暴情况节选</a></li>
+<li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
+</ul></details>
+
+<details open><summary>3.2.2 1001夜事件: 套路防爆 是谁无声无息没了姓名</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/直击网暴现场">1001夜男二受网暴情况</a></li>
 </ul></details>
 </ul>
 
-3.2 插刀: 如果你有个邓伦一样的好朋友
+3.3 插刀: 如果你有个邓伦一样的好朋友
 <ul>
-<details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.2.1 凳子CP炒作相关</a></summary></details>
-<details open><summary>3.2.2 INS未回关事件:走过最长的路是你的套路</summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.3.1 凳子CP炒作相关</a></summary></details>
+<details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
 <li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
 <li><details><summary>点击就看灭花三部曲</summary><img src="{{ site.baseurl }}/images/mhsbq.png"></details></li>
 </ul></details>
 </ul>
 
-3.3 炒作: 如果你和邓伦扯上关系
+3.4 炒作: 如果你有个邓伦一样的(前)男友
 
 <ul>
-<details><summary>3.3.1 前女友复合事件: 迪奥又做错了什么</summary>
+<details open><summary>3.4.1 前女友复合事件: 迪奥又做错了什么</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/公公在线答疑">公公在线答疑:复合?这辈子都不可能</a></li>
 <li><a href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">一条手链引发的血案</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
-</ul></details>
-
-<details open><summary>3.3.2 惯例联动营销号 防爆拉踩炒作</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a> | <a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
 </ul></details>
 
 </ul>
 
-3.4 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+3.5 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
 
-<ul><details><summary>3.4.1 恶性营销总结: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details></ul>
+<ul><details><summary>3.5.1 *打脸邓伦的各种说</summary></details></ul>
 </ul>
 
 ---
@@ -238,7 +254,7 @@ comments: true
 
 <details><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
 <ul>
-<li>*罗家粉圈卧底事件</li>
+<li><a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li>*故宫小姐姐被投诉事件</li>
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li>
 <li><a href="#">*QQ群里教盗号</a></li>
@@ -266,7 +282,7 @@ comments: true
 4.4 影响
 
 <ul>
-<details><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
+<details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">和14岁前粉丝聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
 </ul></details>
@@ -284,8 +300,8 @@ comments: true
 <ul><li><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">值得借鉴的约束粉丝的方式</a></li>
 </ul></details>
 
-<details><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
-<ul><li><a href="#">*11月2日网暴声明事件</a></li>
+<details open><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
 </ul></details>
 </ul>
 
