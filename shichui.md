@@ -18,6 +18,7 @@ comments: true
 <ul>
 <details open><summary>1.1.1 以真朋友应援事件为例: 九万烧饼宴 喜提人民网</summary>
 <ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/烧饼宴事件详解">烧饼宴事件详细解析</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">多方剖析烧饼宴背后的乱账</a></li>
 </ul></details>
 
