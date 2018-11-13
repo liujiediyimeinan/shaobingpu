@@ -132,8 +132,13 @@ comments: true
 2.3 与邓本伦的关系
 
 <ul>
-<details open><summary>2.3.1 生日在线摆摊 娱乐圈几乎无人问津</summary><ul><li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日摆摊 圈内几乎无人祝愿</a></li></ul></details>
-<details><summary>2.3.2 合作同事甚众 关系令人担忧</summary><img src="{{ site.baseurl }}/images/300349689.png"></details>
+<details open><summary>2.3.1 合作同事甚众 关系令人担忧</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日在线摆摊 圈内几乎无人祝愿</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/疑似业内人士爆料">疑似业内人士对邓伦风评的爆料</a></li>
+<li><details><summary>点击就看合作同事甚众 关系令人担忧</summary><img src="{{ site.baseurl }}/images/300349689.png"></details></li>
+</ul></details>
+
 
 </ul>
 
@@ -148,7 +153,7 @@ comments: true
 <ul>
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">惯例联动营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
 </details>
@@ -221,7 +226,7 @@ comments: true
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">部分伦粉十大神逻辑</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">海军打脸神逻辑</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/信口造谣卡黑澄清">疑邓伦粉信口造谣 反黑组卡黑澄清声明</a></li>
 </ul></details></ul>
 
@@ -274,6 +279,7 @@ comments: true
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
