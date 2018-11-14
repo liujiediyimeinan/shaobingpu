@@ -244,9 +244,10 @@ comments: true
 <li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼遗址</a> | <a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">美男楼凭吊专用帖</a></li>
 </ul></details>
 
-<details><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
+<details open><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
 <ul>
-<li><a href="#">*一位无辜写手的自白</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/">阅文写手被网暴致郁事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/产出区的灾殃">b站乐乎等产出区受灾情况合集</a></li>
 </ul></details>
 
 <details open><summary>4.2.4 部分粉丝大战八方屠遍六界</summary>
@@ -274,7 +275,6 @@ comments: true
 <ul>
 <details open><summary>4.3.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣专组高赞剧照消失事件</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/产出区的灾殃">b站乐乎等产出区受灾情况合集</a></li>
 </ul></details>
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
