@@ -76,14 +76,15 @@ comments: true
 <ul>
 <details open><summary>2.1.1 金主百草枯: 双十一带货现形记 割韭菜割到了钢筋</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/欧莱雅大金瓶相关">大金瓶解锁任务:双十一带货好艰难</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/双十一带货能力现形记">销量掰头看双十一带货能力现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/如何评价欧莱雅解锁失败">知乎:如何看待欧莱雅解锁失败?</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜相关带货情况">淘宝香蜜相关带货情况</a></li>
 </ul></details>
 
-<details><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
+<details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="#">*饼族夜游的百度指数</a></li>
+<li><a href="http://in.miaopai.com/media/-IxaFO73ie7tl7agUtNwmpkEJFmb467b.htm?from=1089093010&wm=3333_2001&weiboauthoruid=6671218902">邓伦买超话实锤</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -91,15 +92,16 @@ comments: true
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
+<li><a href="#">*饼族夜游的百度指数</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区海军名远扬">兔区海军名远扬</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 <li><details><summary>点击就看邓伦数据粉群入组要求</summary><img src="{{ site.baseurl }}/images/v2-202649dc4c17fb8d287bbff6545c3294_hd.jpg"></details></li>
 </ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
 <li><a href="#">*躲得过马云躲不过邓伦</a></li>
-<li><details><summary>点击就看无法直立行走的挂件伦</summary><img src="{{ site.baseurl }}/images/302133283.jpg"></details></li>
+<li><details><summary>点击就看无法直立行走的挂件伦</summary><img src="{{ site.baseurl }}/images/5bec328482344.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">楼友指哪打哪 水军勤勤恳恳 </a></li></ul></details>
 </ul>
 
@@ -267,7 +269,7 @@ comments: true
 <details><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
-<li>*故宫小姐姐被投诉事件</li>
+<li><a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a></li>
 <li><a href="#">*QQ群里教盗号</a></li>
