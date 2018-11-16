@@ -269,6 +269,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li>*故宫小姐姐被投诉事件</li>
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a></li>
 <li><a href="#">*QQ群里教盗号</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/工作室10月声明相关">与DXJJ切磋后账号异常</a></li>
