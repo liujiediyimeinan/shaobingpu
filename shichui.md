@@ -84,7 +84,7 @@ comments: true
 <details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="http://in.miaopai.com/media/-IxaFO73ie7tl7agUtNwmpkEJFmb467b.htm?from=1089093010&wm=3333_2001&weiboauthoruid=6671218902">邓伦买超话实锤</a></li>
+<li><a href="http://in.miaopai.com/media/-IxaFO73ie7tl7agUtNwmpkEJFmb467b.htm?from=1089093010&wm=3333_2001&weiboauthoruid=6671218902">买超话实锤</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
