@@ -163,6 +163,7 @@ comments: true
 <details open><summary>3.1.2 操作成效: 目前为止切实有效</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中内网海军控舆实效</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜官博评论分析">大数据分析香蜜官博中评论情况</a></li>
 </ul></details>
 
 <details><summary>3.1.3 受累对象: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details>
@@ -177,7 +178,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/总结香蜜期间的网暴乱象">天涯香蜜期间屠龙网暴总结帖</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博记录屠龙十日">微博屠龙十日总结帖</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜男二受网暴情况节选">香蜜男二受网暴情况节选</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">豆瓣总结香蜜官博骚操作</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
@@ -295,6 +296,7 @@ comments: true
 <details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">和14岁前粉丝聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
+<li><details><summary>点击就看脱粉感言:粉群教撕逼</summary><img src="{{ site.baseurl }}/images/302128857.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.4.2 饼芯姐姐谈邓伦团队存在的问题</summary>

@@ -7,12 +7,21 @@ comments: true
 
 # 饼铺掌柜有话说
 
+
+
+
 ---
 
 11/15
 
+烧饼铺中的 [如何评价欧莱雅解锁失败]({{ site.baseurl}}/2018/11/如何评价欧莱雅解锁失败) 在铺子上新4日内原答案被要求修改。
+
+![图]({{ site.baseurl }}/images/302107434.jpg)
 
 
+烧饼铺中的 [天涯美男楼遗址](http://kksk.org/tieku/r_85673_1.html) 在铺子上新10日内显示已删除。
+
+![图]({{ site.baseurl }}/images/yizhishanchu.png)
 
 ---
 

@@ -7,6 +7,151 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>香蜜官博评论分析</title>
+				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;花了一个多周爬了一下0802-0904香蜜播出期间官博下的评论，去掉部分乱码后的文字评论约122万条。虽然大家都知道香蜜官博是饼家的地盘，但有数据更直观嘛。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;推荐阅读 | &lt;a href=&quot;/2018/11/大数据分析香蜜N问&quot;&gt;从评论看香蜜内网控舆实效&lt;/a&gt; | &lt;a href=&quot;/2018/11/香蜜撕逼背后的故事&quot;&gt;带您走进香蜜撕逼背后的故事&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;本页目录 | &lt;a href=&quot;#dxjja&quot;&gt;对单条微博下评论的分析&lt;/a&gt; | &lt;a href=&quot;#dxjjb&quot;&gt;对剧播期间所有微博评论的分析&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;dxjja&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第一部分:对某条官方微博下评论的分析。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;半夜有人吗，借鉴了六界第一美男瓜大大的思路，用单条微博评论尝试分析了一下。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P1 微博评论来源：香蜜官博锦觅捅旭凤。是男女主很重要的情节了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023709.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P2 该微博评论词云，原博内未提到的润玉高居词频统计的第二名。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023710.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P3 把包含词频统计前两名的评论用百度情感分析api分析了一下，统计结果如图。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023711.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;作者解读: 纵坐标是评论数。词云里统计的是旭凤最多，在做情感分析的时候有一些评论部分乱码返回不了结果被删了，最后两个词的评论数是一样的，都是248。&lt;/p&gt;
+
+&lt;p&gt;男女主重要情节只字未提男二的微博下面男二在被大规模骂。从微博内容上讲，这条微博完全没带润玉，所以评论就算提到也应该是少量而不应该这么大规模。从剧情来讲，润玉根本不知道锦觅会捅旭凤，那你猜他们在骂什么？&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;dxjjb&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第二部分:对剧播期间所有官方微博下评论的分析。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;花了一个多周爬了一下0802-0904香蜜播出期间官博下的评论，去掉部分乱码后的文字评论约122万条。虽然大家都知道香蜜官博是饼家的地盘，但有数据更直观嘛。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;1、香蜜官博下角色提及量（包含角色名加昵称的评论数目）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302117923.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;用了美男瓜大大爬的油管评论也统计了一下类似的数据，但微博情况复杂，和单纯剧集评论不具有很强的对比性，这里仅仅做一个参考。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302117995.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;统计时各角色对应的关键词:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;锦觅：'锦觅','葡萄','霜花','觅儿', '圣女', '小淘淘', '果子'
+旭凤：'旭凤','凤凰','二凤','鸦鸦','魔尊','凤娃','火神','战神','熠王','貂哥','尊上', '二殿', '傻鸟'
+鎏英：'鎏英',流英', '魔界公主'（考虑错别字）
+润玉：'润玉','夜神','大龙','大殿','小鱼仙倌', '玉儿', 'ry','应龙','天帝玉','穷奇玉','小鱼'
+穗禾：'穗和','穗禾', '睡荷','孔雀', '鸟族公主'
+暮辞：'暮辞','奇鸢', '幕辞','慕辞'
+彦佑：'彦佑','扑哧', '噗嗤','蛇'
+丹朱：'月下','狐狸', '叔父','月老', '红红','丹朱'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2、播出期间香蜜官博评论词云（停用词：回复，电视剧，网页，配图，评论，查看图片，链接，如霜，动图，香香，香蜜，微博，沉沉和部分二级评论中出现的用户id）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118160.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-1、当谈论锦觅时，评论在说什么(所有包含锦觅及其昵称的评论词云，以下同理)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118171.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-2、当谈论旭凤时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118180.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-3、当谈论鎏英时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118246.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-4、当谈论润玉时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118193.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;4-1、当“我”是剧粉时，”我”都在说些什么（剧粉关键词：‘剧粉’，‘路人’）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118405.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;4-2、当“我”是书粉时，”我”都在说些什么（书粉关键词：‘书粉’，‘淑芬’，‘原著党’，‘原著粉’，‘小说粉’，‘小说党’）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118427.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;5、总结：香蜜官博下：“旭凤一番男主”，“邓伦力压杨紫”“润玉加戏加成了润玉传”，“剧粉/路人/书粉最关注的点达成一致：撕润玉加戏”等等等等，欢迎大家补充。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;6、分析粗浅，仅供讨论。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;附: 网友评论节选
+
+心疼yz一分钟，明明演技最好，宣传最卖力，结果一番没她姓名
+罗云熙没有姓名，男女主总要捆绑
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+</description>
+				<pubDate>Thu, 15 Nov 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90</guid>
+			</item>
+		
+			<item>
 				<title>秋名山论丑系列</title>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/qmslc/1.jpg&quot; alt=&quot;图&quot; /&gt;
 &lt;img src=&quot;/images/qmslc/2.jpg&quot; alt=&quot;图&quot; /&gt;
@@ -21,7 +166,6 @@
 &lt;img src=&quot;/images/qmslc/10.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/qmslc/11.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/qmslc/12.png&quot; alt=&quot;图&quot; /&gt;
 &lt;img src=&quot;/images/302109723.jpg&quot; alt=&quot;图&quot; /&gt;
 &lt;img src=&quot;/images/302109732.jpg&quot; alt=&quot;图&quot; /&gt;
 &lt;img src=&quot;/images/302109741.jpg&quot; alt=&quot;图&quot; /&gt;
@@ -34,6 +178,28 @@
 				<pubDate>Thu, 15 Nov 2018 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2018/11/%E7%A7%8B%E5%90%8D%E5%B1%B1%E8%AE%BA%E4%B8%91%E7%B3%BB%E5%88%97</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/11/%E7%A7%8B%E5%90%8D%E5%B1%B1%E8%AE%BA%E4%B8%91%E7%B3%BB%E5%88%97</guid>
+			</item>
+		
+			<item>
+				<title>微博记录屠龙十日</title>
+				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;微博十日屠龙全纪录个人向。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;推荐阅读 | &lt;a href=&quot;/2018/11/兔眼冷观屠龙十日&quot;&gt;兔眼冷观屠龙十日&lt;/a&gt; | &lt;a href=&quot;/2018/11/香蜜撕逼背后的故事&quot;&gt;带您走进香蜜撕逼背后的故事&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/wbtl.png&quot; alt=&quot;图&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/wbtl2.png&quot; alt=&quot;图&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/wbtl3.png&quot; alt=&quot;图&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/wbtl4.png&quot; alt=&quot;图&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/wbtl5.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 Nov 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2018/11/%E5%BE%AE%E5%8D%9A%E8%AE%B0%E5%BD%95%E5%B1%A0%E9%BE%99%E5%8D%81%E6%97%A5</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/11/%E5%BE%AE%E5%8D%9A%E8%AE%B0%E5%BD%95%E5%B1%A0%E9%BE%99%E5%8D%81%E6%97%A5</guid>
 			</item>
 		
 			<item>
@@ -190,67 +356,6 @@
 				<pubDate>Tue, 13 Nov 2018 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C%E6%80%BB%E7%BB%93</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C%E6%80%BB%E7%BB%93</guid>
-			</item>
-		
-			<item>
-				<title>香蜜女主受网暴情况节选</title>
-				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;简单节选针对香蜜女主杨紫的网暴情况。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;推荐阅读--邓伦工作室网暴声明合集--人肉网友合集--造谣并卡黑澄清--&quot;&gt;推荐阅读 | &lt;a href=&quot;/2018/11/邓伦工作室网暴声明合集&quot;&gt;邓伦工作室网暴声明合集&lt;/a&gt; | &lt;a href=&quot;/2018/11/邓伦粉丝人肉网友合集&quot;&gt;人肉网友合集&lt;/a&gt; | &lt;a href=&quot;/2018/11/信口造谣卡黑澄清&quot;&gt;造谣并卡黑澄清&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjb&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;微博部分言论节选。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/301786825.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/301786824.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/301786823.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;黑超话。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/301786939.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;骚扰代言方客服。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/v2-a5052e6e7bee591e0a2803f29d8ba3f1_hd.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/v2-f1946aefa098c915618d9cafa2fc2b16_hd.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-</description>
-				<pubDate>Tue, 13 Nov 2018 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%A5%B3%E4%B8%BB%E5%8F%97%E7%BD%91%E6%9A%B4%E6%83%85%E5%86%B5%E8%8A%82%E9%80%89</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%A5%B3%E4%B8%BB%E5%8F%97%E7%BD%91%E6%9A%B4%E6%83%85%E5%86%B5%E8%8A%82%E9%80%89</guid>
-			</item>
-		
-			<item>
-				<title>饼芯姐姐作品集</title>
-				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;饼芯姐姐出道以来作品合集。曾发布于微博B站，均已下架。下存小铺友情链接。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;h4 id=&quot;推荐阅读--微博在线去世&quot;&gt;推荐阅读 | &lt;a href=&quot;/2018/11/微博在线去世&quot;&gt;微博在线去世&lt;/a&gt;&lt;/h4&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;链接:&lt;a href=&quot;https://pan.baidu.com/wap/init?surl=k5gzM112k2FlO3G5AwVnrQ&amp;amp;adapt=pc&amp;amp;fr=ftw&quot;&gt;度娘云盘&lt;/a&gt; 密码:hhum&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/300265694.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 13 Nov 2018 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/2018/11/%E9%A5%BC%E8%8A%AF%E5%A7%90%E5%A7%90%E4%BD%9C%E5%93%81%E9%9B%86</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/11/%E9%A5%BC%E8%8A%AF%E5%A7%90%E5%A7%90%E4%BD%9C%E5%93%81%E9%9B%86</guid>
 			</item>
 		
 	</channel>
