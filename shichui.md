@@ -85,6 +85,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
 <li><a href="#">*饼族夜游的百度指数</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
@@ -98,7 +99,7 @@ comments: true
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
 <li><a href="#">*躲得过马云躲不过邓伦</a></li>
-<li><a href="#">*无法直立行走的挂件伦</a></li>
+<li><details><summary>点击就看无法直立行走的挂件伦</summary><img src="{{ site.baseurl }}/images/302133283.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">楼友指哪打哪 水军勤勤恳恳 </a></li></ul></details>
 </ul>
 
@@ -283,6 +284,7 @@ comments: true
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a></li>
+<li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
