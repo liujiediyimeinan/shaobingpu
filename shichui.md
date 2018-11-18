@@ -8,8 +8,12 @@ comments: true
 
 
     食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。所有"*"标示的地方都还没有搬过来，正在不断完善中。
-    
+
 ---
+#### 实锤目录 \| [后援会:集资乱账](#dxjja) \| [邓本伦:虚假流量](#dxjjb) \| [工作室:恶性营销](#dxjjc)  \| [粉丝群:网络暴力](#dxjjd)
+---
+
+<a name="dxjja"></a>
 
 # **1. 后援会: 集资乱账**
 
@@ -66,7 +70,8 @@ comments: true
 </ul>
 
 
----
+<a name="dxjjb"></a>
+
 
 # **2. 邓本伦: 虚假流量**
 
@@ -148,7 +153,8 @@ comments: true
 
 </ul>
 
----
+<a name="dxjjc"></a>
+
 
 # **3. 工作室: 恶性营销**
 
@@ -220,7 +226,8 @@ comments: true
 <ul><details><summary>3.5.1 *打脸邓伦的各种说</summary></details></ul>
 </ul>
 
----
+<a name="dxjjd"></a>
+
 
 # **4. 粉丝群: 网络暴力**
 
@@ -259,6 +266,7 @@ comments: true
 
 <details open><summary>4.2.4 部分粉丝大战八方屠遍六界</summary>
 <ul>
+<li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/乐乎作者删文">乐乎作者删文事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>

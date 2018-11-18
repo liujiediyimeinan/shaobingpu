@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<h2>六界第一美男烧饼铺-油菜佐食</h2>
+
+<h1>歌颂美男的诗词歌赋，散发着油菜花的香气，赏心悦目，入口即化，口感酥滑。</h1>
+
+<div class="header" id="myHeader">
+  <h2>My Header</h2>
+</div>
+
+<h1 style="color:#444444"><strong>1. 时评分析</strong></h1>
+<ul><ol>
+{%for post in site.posts %}
+       {% if post.tag == '评' %}
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
+        {% endif %}
+{% endfor %}
+</ol></ul>
+<hr>
+
+
+<h1 style="color:#444444"><strong>2. 诗词歌赋</strong></h1>
+<ul><ol>
+{%for post in site.posts %}
+       {% if post.tag == '文' %}
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
+        {% endif %}
+{% endfor %}
+</ol></ul>
+<hr>
+
+
+<h1 style="color:#444444"><strong>3. 美图品鉴</strong></h1>
+<ul><ol>
+{%for post in site.posts %}
+       {% if post.tag == '图' %}
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
+        {% endif %}
+{% endfor %}
+</ol></ul>
+<hr>
+
+<h1 style="color:#444444"><strong>4. 心路感言</strong></h1>
+<ul><ol>
+{%for post in site.posts %}
+       {% if post.tag == '感' %}
+            <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }} | {{ post.author }}</a></li>
+        {% endif %}
+{% endfor %}
+</ol></ul>
+

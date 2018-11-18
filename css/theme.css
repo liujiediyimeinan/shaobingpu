@@ -1,11 +1,27 @@
-{% if page.tipue_search_active or layout.tipue_search_active %}
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-<script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-{% endif %}
+/* Style the header */
+.header {
+  padding: 8px 8px;
+  background: #F5F5F5;
+  color: #000000;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 5%;
+  width: auto;
+  margin: auto;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
 
 
 body {
