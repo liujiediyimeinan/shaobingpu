@@ -164,6 +164,7 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
 </details>
@@ -235,7 +236,8 @@ comments: true
 
 <ul>
 <details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">邓伦粉丝长期多次人肉网友合集</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">邓伦粉丝长期多次人肉网友选集</a></li>
+<li><a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯整理邓伦粉人肉网友合集</a></li>
 </ul></details>
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
