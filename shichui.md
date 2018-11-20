@@ -133,9 +133,9 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
-<li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
+
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
-<li><a href="https://mp.weixin.qq.com/s/ABevqaeQTCdMcG7DaVSf6Q">金知:早恋打架的退校经历</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/疑似校友爆料">校友爆料早恋打架的退校经历</a></li>
 </ul></details>
 </ul>
 
@@ -220,6 +220,10 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/公公在线答疑">公公在线答疑:复合?这辈子都不可能</a></li>
 <li><a href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">一条手链引发的血案</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a> | <a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
+</ul></details>
+<details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
+<ul>
+<li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
 </ul></details>
 
 </ul>
