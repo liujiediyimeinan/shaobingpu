@@ -59,8 +59,25 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+$(document).ready(function() {
+$("#div1Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div1").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+$("#div2Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div2").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+$("#div3Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div3").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+});
 </script>
-
+                
 
 <!--New images on load -->
 <script>

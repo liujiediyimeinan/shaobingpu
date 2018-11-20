@@ -104,15 +104,15 @@
     <h1>新饼尝鲜</h1>
     <ul>
         
-          <li><a href="/2018/11/%E9%94%A4%E9%A5%BC%E9%9A%BE%E8%AF%97%E4%BA%8C%E9%A6%96">文·锤饼难诗二首</a></li>
+          <li><a href="/2018/11/%E9%94%A4%E9%A5%BC%E5%8E%9F%E5%9B%A0">评·锤饼原因</a></li>
         
-          <li><a href="/2018/11/%E8%AE%BA%E4%BC%90%E9%A5%BC">文·论伐饼</a></li>
+          <li><a href="/2018/11/%E5%86%99%E7%BB%99%E8%B7%AF%E4%BA%BA%E7%9A%84%E5%BF%83%E9%87%8C%E8%AF%9D">评·写给路人的心里话</a></li>
         
-          <li><a href="/2018/11/%E6%B8%85%E5%B9%B3%E4%B9%90%E8%BE%B1%E6%95%85%E5%AE%AB%E4%BA%86">文·清平乐辱故宫了</a></li>
+          <li><a href="/2018/11/%E4%BB%8E%E8%B7%AF%E4%BA%BA%E5%88%B0%E9%94%A4%E9%A5%BC">感·从路人到锤饼</a></li>
         
-          <li><a href="/2018/11/%E6%9C%89%E9%A5%BC%E6%9D%A5%E8%A2%AD%E6%95%85%E4%BA%8B%E7%B3%BB%E5%88%97">文·有饼来袭故事系列</a></li>
+          <li><a href="/2018/11/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E6%84%BF%E6%84%8F%E4%BB%98%E5%87%BA%E5%BF%83%E5%8A%9B">感·为什么我们愿意付出心力</a></li>
         
-          <li><a href="/2018/11/%E6%8C%82%E4%BB%B6%E5%90%9F%E4%BD%9C%E5%93%81%E9%9B%86-copy">文·挂件吟作品集 copy</a></li>
+          <li><a href="/2018/11/%E9%97%BB%E9%A5%BC%E6%9D%A5%E4%BD%9C%E5%93%81%E9%9B%86">文·闻饼来作品集</a></li>
         
     </ul>
 </div>
@@ -171,8 +171,25 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+$(document).ready(function() {
+$("#div1Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div1").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+$("#div2Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div2").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+$("#div3Link").click(function() {
+$("html, body").animate({
+scrollTop: $("#div3").offset().top }, {duration: 500,easing: "swing"});
+return false;
+});
+});
 </script>
-
+                
 
 <!--New images on load -->
 <script>
