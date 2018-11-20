@@ -43,6 +43,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">初中粉丝爆料大金瓶:公益冲销量 非公开集资 赚人零花钱</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/果酱打榜相关">果酱爱豆榜:打榜失败 公益挽尊？</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/公益集资变拿钱白嫖">粉丝爆料:生日公益集资变大粉拿钱白嫖？</a></li>
 </ul></details>
 
 <details open><summary>1.2.2 生日开屏事件: 逃税为省钱 整治成空言</summary>
@@ -128,10 +129,11 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
 </ul></details>
 
-<details><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
+<details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
+<li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="https://mp.weixin.qq.com/s/ABevqaeQTCdMcG7DaVSf6Q">金知:早恋打架的退校经历</a></li>
 </ul></details>
