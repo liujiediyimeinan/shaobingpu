@@ -106,7 +106,7 @@ comments: true
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
-<li><a href="#">*躲得过马云躲不过邓伦</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/不能屏蔽的邓伦">躲得过马云躲不过邓伦</a></li>
 <li><details><summary>点击就看无法直立行走的挂件伦</summary><img src="{{ site.baseurl }}/images/5bec328482344.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">楼友指哪打哪 水军勤勤恳恳 </a></li></ul></details>
 </ul>
