@@ -89,7 +89,7 @@ comments: true
 <details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="http://in.miaopai.com/media/-IxaFO73ie7tl7agUtNwmpkEJFmb467b.htm?from=1089093010&wm=3333_2001&weiboauthoruid=6671218902">买超话实锤</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/买超话实锤">买超话实锤</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -120,9 +120,9 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
 </ul></details>
 
-<details><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
+<details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦:我这两天不在 剧组开不了工</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦不在剧组开不了工</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="#">*滚筒洗衣机从不自己练习</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
@@ -190,7 +190,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙操作总结帖</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博记录屠龙十日">微博屠龙十日总结帖</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜男二受网暴情况节选">香蜜男二受网暴情况节选</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">豆瓣总结香蜜官博骚操作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -251,6 +251,7 @@ comments: true
 <ul>
 <details open><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号成分统计</a></li>
+<li><details><summary>点击就看香蜜艺术总监:敬畏之心被黑子碾压</summary><img src="{{ site.baseurl }}/images/302267432.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary>
