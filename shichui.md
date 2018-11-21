@@ -66,6 +66,8 @@ comments: true
 
 <details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/chigu.jpg"><img src="{{ site.baseurl }}/images/300356656.jpg"></details>
 
+<details><summary>1.3.3 对待缺账值得借鉴的处理方式</summary><img src="{{ site.baseurl }}/images/chigu.jpg"><img src="{{ site.baseurl }}/images/302377484.jpg"></details>
+
 
 </ul>
 </ul>
