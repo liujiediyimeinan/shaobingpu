@@ -271,7 +271,7 @@ comments: true
 
 <details open><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/">阅文写手被网暴致郁事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/阅文写手被网暴致郁事件">阅文写手被网暴致郁事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/产出区的灾殃">b站乐乎等产出区受灾情况合集</a></li>
 </ul></details>
 
