@@ -92,7 +92,7 @@ comments: true
 <details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/买超话实锤">买超话实锤</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/买超话实锤">微博超话注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -286,7 +286,7 @@ comments: true
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 </ul></details>
 
-<details><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
+<details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
@@ -295,6 +295,7 @@ comments: true
 <li><details><summary>点击就看邓伦粉丝QQ群里教盗号</summary><img src="{{ site.baseurl }}/images/302186328.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/工作室10月声明相关">与DXJJ切磋后账号异常</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a></li>
 </ul></details>
 </ul>
 
