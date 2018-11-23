@@ -66,7 +66,7 @@ comments: true
 
 <details><summary>1.3.2 邓伦是工作室全权控股人</summary><img src="{{ site.baseurl }}/images/chigu.jpg"><img src="{{ site.baseurl }}/images/300356656.jpg"></details>
 
-<details><summary>1.3.3 对待缺账值得借鉴的处理方式</summary><img src="{{ site.baseurl }}/images/chigu.jpg"><img src="{{ site.baseurl }}/images/302377484.jpg"></details>
+<details><summary>1.3.3 对待缺账值得借鉴的处理方式</summary><img src="{{ site.baseurl }}/images/302377484.jpg"></details>
 
 
 </ul>
@@ -135,7 +135,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
-
+<li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/302391776.jpg"></details></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑似校友爆料">校友爆料早恋打架的退校经历</a></li>
 </ul></details>
@@ -149,6 +149,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/生日摆摊圈内无人祝愿">生日在线摆摊 圈内几乎无人祝愿</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑似业内人士爆料">疑似业内人士对邓伦风评的爆料</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜制作团队相关">香蜜制作团队相关</a></li>
 <li><details><summary>点击就看合作同事甚众 关系令人担忧</summary><img src="{{ site.baseurl }}/images/300349689.png"></details></li>
 </ul></details>
 
