@@ -92,7 +92,7 @@ comments: true
 <details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/买超话实锤">微博超话注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/买超话实锤">微博数据注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -303,7 +303,7 @@ comments: true
 
 <ul>
 <details open><summary>4.3.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣专组高赞剧照消失事件</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜撕逼组爱邓伦 高赞剧照离奇消失</a></li>
 </ul></details>
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
