@@ -135,7 +135,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
-<li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/302391776.jpg"></details></li>
+<li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/302391776.jpg"><img src="{{ site.baseurl }}/images/302481726.jpg"></details></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑似校友爆料">校友爆料早恋打架的退校经历</a></li>
 </ul></details>
@@ -212,6 +212,12 @@ comments: true
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
 <li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
 <li><details><summary>点击就看灭花三部曲</summary><img src="{{ site.baseurl }}/images/mhsbq.png"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜女主受网暴情况节选">香蜜女主受网暴情况节选</a></li>
+</ul></details>
+<details open><summary>3.3.3 杨紫方对此的表态:欠下的总要偿还</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/杨紫工作室网暴声明">11月23日工作室网暴声明</a></li>
+<li><a href="#">*工作室强调专注作品</a></li>
+
 </ul></details>
 </ul>
 
