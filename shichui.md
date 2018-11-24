@@ -31,6 +31,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/后援会多次高额集资问题">后援会多次高额集资 41天达120万</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/后援会问题曝光后的回应">后援会问题曝光后的回应</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/后援会工作室背后疑云">饼芯姐姐爆料后援会工作室问题重重</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/腾讯视频娱乐对比各家粉圈">快本应援惊世骇俗538 附各家粉圈对比</a></li>
 </ul></details>
 
 
@@ -48,7 +49,6 @@ comments: true
 
 <details open><summary>1.2.2 生日开屏事件: 逃税为省钱 整治成空言</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/四川后援会相关实锤">四川后援会:问题负责人转任分会长 公然逃税</a></li>
-<li><a href="{{ site.baseurl}}/2018/11/腾讯视频娱乐对比各家粉圈">腾讯视频娱乐对比各家粉圈 邓伦画风突变</a></li>
 </ul></details>
 
 </ul>
