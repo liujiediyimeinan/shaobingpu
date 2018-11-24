@@ -127,8 +127,8 @@ comments: true
 <details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦不在剧组开不了工</a></li>
+<li><a href="滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷精</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
-<li><a href="#">*滚筒洗衣机从不自己练习</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
 </ul></details>
 
@@ -217,8 +217,7 @@ comments: true
 </ul></details>
 <details open><summary>3.3.3 杨紫方对此的表态:欠下的总要偿还</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/杨紫工作室网暴声明">11月23日工作室网暴声明</a></li>
-<li><a href="#">*工作室强调专注作品</a></li>
-
+<li><a href="杨紫方拒绝捆绑合集">杨紫工作室拒绝捆绑合集</a></li>
 </ul></details>
 </ul>
 
@@ -252,8 +251,8 @@ comments: true
 
 <ul>
 <details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">邓伦粉丝长期多次人肉网友选集</a></li>
-<li><a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯整理邓伦粉人肉网友合集</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓伦粉丝长期多次人肉网友选集</a></li>
+<li><a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯整理部分邓粉人肉网友合集</a></li>
 </ul></details>
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
@@ -334,16 +333,14 @@ comments: true
 
 <details open><summary>4.4.2 饼芯姐姐谈邓伦团队存在的问题</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">一位饼芯姐姐的脱粉感言</a></li>
-<li><a href="http://bbs.tianya.cn/post-funinfo-7691224-3.shtml">一位天涯人的脱粉现场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/一位天涯人的脱粉现场">一位天涯人的脱粉现场</a></li>
 </ul></details>
 </ul>
 
 4.5 与邓本伦的关系
 
 <ul>
-<details><summary>4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">值得借鉴的约束粉丝的方式</a></li>
-</ul></details>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
 <details open><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
