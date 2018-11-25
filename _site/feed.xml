@@ -138,6 +138,226 @@
 			</item>
 		
 			<item>
+				<title>香蜜官博评论分析</title>
+				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;花了一个多周爬了一下0802-0904香蜜播出期间官博下的评论，去掉部分乱码后的文字评论约122万条。虽然大家都知道香蜜官博是饼家的地盘，但有数据更直观嘛。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;推荐阅读--从评论看香蜜内网控舆实效--带您走进香蜜撕逼背后的故事&quot;&gt;推荐阅读 | &lt;a href=&quot;/2018/11/大数据分析香蜜N问&quot;&gt;从评论看香蜜内网控舆实效&lt;/a&gt; | &lt;a href=&quot;/2018/11/香蜜撕逼背后的故事&quot;&gt;带您走进香蜜撕逼背后的故事&lt;/a&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;本页目录 | &lt;a href=&quot;#dxjja&quot;&gt;对单条微博下评论的分析&lt;/a&gt; | &lt;a href=&quot;#dxjjb&quot;&gt;对剧播期间所有微博评论的分析&lt;/a&gt; | &lt;a href=&quot;#dxjjc&quot;&gt;剧粉书粉评论整理&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;dxjja&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第一部分:对某条官方微博下评论的分析。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;半夜有人吗，借鉴了六界第一美男瓜大大的思路，用单条微博评论尝试分析了一下。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P1 微博评论来源：香蜜官博锦觅捅旭凤。是男女主很重要的情节了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023709.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P2 该微博评论词云，原博内未提到的润玉高居词频统计的第二名。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023710.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;P3 把包含词频统计前两名的评论用百度情感分析api分析了一下，统计结果如图。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302023711.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;作者解读: 纵坐标是评论数。词云里统计的是旭凤最多，在做情感分析的时候有一些评论部分乱码返回不了结果被删了，最后两个词的评论数是一样的，都是248。&lt;/p&gt;
+
+&lt;p&gt;男女主重要情节只字未提男二的微博下面男二在被大规模骂。从微博内容上讲，这条微博完全没带润玉，所以评论就算提到也应该是少量而不应该这么大规模。从剧情来讲，润玉根本不知道锦觅会捅旭凤，那你猜他们在骂什么？&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;dxjjb&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第二部分:对剧播期间所有官方微博下评论的分析。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;花了一个多周爬了一下0802-0904香蜜播出期间官博下的评论，去掉部分乱码后的文字评论约122万条。虽然大家都知道香蜜官博是饼家的地盘，但有数据更直观嘛。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;1、香蜜官博下角色提及量（包含角色名加昵称的评论数目）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302117923.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;用了美男瓜大大爬的油管评论也统计了一下类似的数据，但微博情况复杂，和单纯剧集评论不具有很强的对比性，这里仅仅做一个参考。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302117995.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;统计时各角色对应的关键词:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;锦觅：'锦觅','葡萄','霜花','觅儿', '圣女', '小淘淘', '果子'
+旭凤：'旭凤','凤凰','二凤','鸦鸦','魔尊','凤娃','火神','战神','熠王','貂哥','尊上', '二殿', '傻鸟'
+鎏英：'鎏英',流英', '魔界公主'（考虑错别字）
+润玉：'润玉','夜神','大龙','大殿','小鱼仙倌', '玉儿', 'ry','应龙','天帝玉','穷奇玉','小鱼'
+穗禾：'穗和','穗禾', '睡荷','孔雀', '鸟族公主'
+暮辞：'暮辞','奇鸢', '幕辞','慕辞'
+彦佑：'彦佑','扑哧', '噗嗤','蛇'
+丹朱：'月下','狐狸', '叔父','月老', '红红','丹朱'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2、播出期间香蜜官博评论词云（停用词：回复，电视剧，网页，配图，评论，查看图片，链接，如霜，动图，香香，香蜜，微博，沉沉和部分二级评论中出现的用户id）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118160.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-1、当谈论锦觅时，评论在说什么(所有包含锦觅及其昵称的评论词云，以下同理)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118171.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-2、当谈论旭凤时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118180.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-3、当谈论鎏英时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118246.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;3-4、当谈论润玉时，评论在说什么&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118193.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;4-1、当“我”是剧粉时，”我”都在说些什么（剧粉关键词：‘剧粉’，‘路人’）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118405.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;4-2、当“我”是书粉时，”我”都在说些什么（书粉关键词：‘书粉’，‘淑芬’，‘原著党’，‘原著粉’，‘小说粉’，‘小说党’）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302118427.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;5、总结：香蜜官博下：“旭凤一番男主”，“邓伦力压杨紫”“润玉加戏加成了润玉传”，“剧粉/路人/书粉最关注的点达成一致：撕润玉加戏”等等等等，欢迎大家补充。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;6、分析粗浅，仅供讨论。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;附: 网友评论节选
+
+心疼yz一分钟，明明演技最好，宣传最卖力，结果一番没她姓名
+罗云熙没有姓名，男女主总要捆绑
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;dxjjc&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第三部分:到现在还有dxjj在洗事情都是剧粉和书粉干的，那就来看看剧粉和书粉都在干嘛啊。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;首先对8月2日至9月4日香蜜播出期间所发微博下的评论（共约115万条，之前统计为122万条是因为爬的时候有重复忘记去重了）遍历，找出其中包含关键词“剧粉”的评论以及其对应的用户id，再根据这些id进行反向查找，得到这些用户在香蜜官博下的所有评论，查找结果如下图所示。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302551468.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如图，剧播期间官博下含关键词“剧粉“的评论数为6109条，对应评论用户id数3123个，这些用户在官博下共发表了169869条评论，平均每人发表评论54.4条，属于活跃用户。&lt;/p&gt;
+
+&lt;p&gt;对6109条包含关键词“剧粉“的评论进行词频分析（TI-IDF算法，topK = 30），结果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302551715.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;去除关键词’剧粉’，转为柱状图&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302551660.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;从图中可以明显看出戏份是’剧粉’的讨论的核心问题，而这一问题的核心对象在剧粉的那里是润玉以及没有名字的’男二’，剧粉将男女主和男二对立的同时，又单独强调’男主’、’邓伦’，’女主’‘杨紫’提及次数甚至不及’润玉传’一词。值得注意的是，在’剧粉’的评论中，’书粉’一词强势出镜。&lt;/p&gt;
+
+&lt;p&gt;再看这些’剧粉’在官博下发表的所有近17万条评论，同样分析其词频，结果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302552155.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;转为柱状图&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302552206.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;‘润玉’作为’男二’再一次与’男女主’对立，在’男女主’高频的同时‘男主’词频又一次与’女主’割裂，’编剧’、’戏份’、’润玉传’依然榜上有名，可见高频次的讨论男二不会是在夸奖。前十的高频词中男二相关词2个，无演员名；男主相关词4个，‘邓伦’占据演员名榜首；锦觅相关词2个，’杨紫’一词落后于男主的一个大名和两个角色名or昵称。作为女主昵称的’葡萄’以及作为官配党象征的’灵修’上榜但排名靠后。&lt;/p&gt;
+
+&lt;p&gt;再来看书粉，同样的方法，先找’书粉’评论和用户ID，根据ID反查所有发言，结果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302553009.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如图，剧播期间官博下含关键词“书粉/淑芬“的评论数为2184条，对应评论用户id数1307个，这些用户在官博下共发表了74337条评论，平均每人发表评论56.9条，与’剧粉’情况相似，属于活跃用户。&lt;/p&gt;
+
+&lt;p&gt;对2184条包含关键词“书粉“的评论进行词频分析（TI-IDF算法，topK = 30），结果如下&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302553216.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;有没有感觉这些词非常眼熟，看下柱状图（停用’书粉’）：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302553265.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;结合上面’剧粉’的情况，’剧粉’和’书粉’好像谈恋爱般的互cue，依旧是没有姓名的’男二’‘润玉’，打着’男女主’名义骂完’男二’‘编剧’后又是’旭凤’‘邓伦’占据前排，’锦觅’被甩在’润玉传’后面。&lt;/p&gt;
+
+&lt;p&gt;不过这只是两千多评论嘛，我们再来看’书粉’们还说了什么？&lt;/p&gt;
+
+&lt;p&gt;对’书粉’用户的7万余条评论进行分析，先看图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302553561.png&quot; alt=&quot;图&quot; /&gt;
+&lt;img src=&quot;/images/302553610.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;结合’剧粉’图，’书粉’和’剧粉’还真是难舍难分，宛若双生。前十的高频词里，’润玉’‘男二’稳居前二，男主相关词依然是四个，女主相关词依然是两个，’灵修’还是排在’润玉传’后面。另外’书粉’这里，’电线’无名。算了，这种和’剧粉’高度相似的词频组成，大家自己看吧。&lt;/p&gt;
+
+&lt;p&gt;补香蜜播出前，评论提及’书粉’一词’的用户在播出时的评论词频，恭喜电线大大终于有了姓名。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302554136.png&quot; alt=&quot;图&quot; /&gt;
+&lt;img src=&quot;/images/302554035.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;诚然，香蜜的撕x是多方混战，下场的未必没有真剧粉真书粉，但在这其中占据大头带节奏的99%是dxjj或者说是海军姐姐。&lt;/p&gt;
+
+&lt;p&gt;其他一些佐料：&lt;/p&gt;
+
+&lt;p&gt;1、查找了有关电线大大的评论&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302554326.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2、查找使用了dxjj常用的骂人词汇的评论&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/302554376.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;真的心疼徐编剧和电线大大还有罗云熙，好好写小说写剧本演好自己的戏到头来被造谣被辱骂，所以锤饼到底啊！&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 25 Nov 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/11/%E9%A6%99%E8%9C%9C%E5%AE%98%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90</guid>
+			</item>
+		
+			<item>
 				<title>饼族异闻录</title>
 				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;周末啦！大家又出来嗨啦！我也赶紧发篇小作文，拖久了就没时效性啦。
 前情回顾：第一章，梅兰楼倒，饼临天下，馍尊封禅大典，1639楼
@@ -608,116 +828,6 @@
 				<pubDate>Sun, 25 Nov 2018 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2018/11/%E5%89%A7%E7%B2%89%E5%B0%8F%E8%AE%BA%E6%96%87</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/11/%E5%89%A7%E7%B2%89%E5%B0%8F%E8%AE%BA%E6%96%87</guid>
-			</item>
-		
-			<item>
-				<title>买超话实锤</title>
-				<description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;微博超话数据注水的实锤系列。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;h4 id=&quot;推荐阅读--双十一带货能力现形记--香蜜角色衍生热度&quot;&gt;推荐阅读 | &lt;a href=&quot;/2018/11/双十一带货能力现形记&quot;&gt;双十一带货能力现形记&lt;/a&gt; | &lt;a href=&quot;/2018/11/香蜜角色衍生热度&quot;&gt;香蜜角色衍生热度&lt;/a&gt;&lt;/h4&gt;
-&lt;hr /&gt;
-&lt;p&gt;本页目录 | &lt;a href=&quot;#dxjje&quot;&gt;大量僵尸号关注邓伦超话&lt;/a&gt; | &lt;a href=&quot;#dxjja&quot;&gt;半夜线性增长的超话积分&lt;/a&gt; | &lt;a href=&quot;#dxjjb&quot;&gt;权力榜涨粉神速注水严重&lt;/a&gt; | &lt;a href=&quot;#dxjjc&quot;&gt;对权力榜数据的分析&lt;/a&gt; | &lt;a href=&quot;#dxjjd&quot;&gt;寻艺权力比较看买榜不平均&lt;/a&gt;  | &lt;a href=&quot;#dxjjf&quot;&gt;微博粉丝一日增幅&lt;/a&gt; | &lt;a href=&quot;#dxjjg&quot;&gt;微博百度对比&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjje&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第一部分:大量僵尸号关注邓伦超话
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://in.miaopai.com/media/-IxaFO73ie7tl7agUtNwmpkEJFmb467b.htm?from=1089093010&amp;amp;wm=3333_2001&amp;amp;weiboauthoruid=6671218902&quot;&gt;点击就看大量僵尸号关注邓伦超话&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjja&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第二部分:深夜时分现形增长的超话积分
-
-搬兔区新的超话统计。横坐标是以半夜12点起记的时间，纵坐标为超话积分。在正常人夜间睡觉之时邓伦的超话积分几乎线性增长。图中马赛克除去了他人姓名。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302266016.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;对比邓伦朱一龙周一零点起超话分数增长情况。12点的数据为上周积分。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302492660.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjb&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第三部分:微博粉丝一周涨粉数一骑绝尘，新粉中低质量僵尸号严重。与带货能力、产粮能力对照食用更佳。
-
-11.19 新浪微博粉丝一周增长数。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302378442.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;艺人新涨粉丝情况对比，注意观察新涨粉丝的粉丝数。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/mchsc.png&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/mchsc2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;附同周新浪微博热议指数等其他相关指数。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302379972.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/302394002.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/302394018.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/302394031.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjc&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第四部分:对上述明星权力榜数据的分析。@青枫月朗
-
-为了饼饼的公平我真的煞费心思，表格从成名时间和粉丝数量两方面对比，点赞一个号只有能一次，点赞比粉丝数量，谁水谁知道（○｀ 3′○）转和评显示基于粉丝热情，正常情况热情与成名时间呈反比。粉丝数据来源今天微博搜索，其他数据来源于明星权力榜。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302412753.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/302412758.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjd&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第五部分:寻艺与权力榜数据比较看买榜不平均。@嗑瓜快樂
-
-混粉圈的都知道寻艺和权力榜是每家粉必签到的。基本十个签寻艺的九个会同时签权力榜的，你看人家数据多和谐这签到人数比例？我们饼饼呢？天天只买寻艺不买明星权力榜。
-
-以下明星权力榜数据。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302431155.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;以下寻艺数据。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302431156.jpg&quot; alt=&quot;图&quot; /&gt;
-&lt;img src=&quot;/images/302431157.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjf&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第六部分:微博粉丝一日增幅。对比邓伦、罗云熙、朱一龙、白宇。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302446806.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dxjjg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;第七部分:微博百度榜单对比。@嗑瓜快樂
-
-晚上了 我又要玩數據battle給公公半夜發大水的機會 公公最近很惜礦啊
-ZYL 快1200W粉
-餅:快3000W粉
-羅:快1000W粉
-百度沸點名次:朱&amp;gt;餅&amp;gt;羅 餅餅的活粉呢?
-百度明星人氣榜(百度花) : 朱&amp;gt;羅&amp;gt;餅 餅餅的活粉呢?
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/302514712.jpg&quot; alt=&quot;图&quot; /&gt;  &lt;br /&gt;
-&lt;img src=&quot;/images/302514713.jpg&quot; alt=&quot;图&quot; /&gt;  &lt;br /&gt;
-&lt;img src=&quot;/images/302514715.jpg&quot; alt=&quot;图&quot; /&gt;  &lt;br /&gt;
-&lt;img src=&quot;/images/302514716.jpg&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
-</description>
-				<pubDate>Sun, 25 Nov 2018 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/2018/11/%E4%B9%B0%E8%B6%85%E8%AF%9D%E5%AE%9E%E9%94%A4</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/11/%E4%B9%B0%E8%B6%85%E8%AF%9D%E5%AE%9E%E9%94%A4</guid>
 			</item>
 		
 	</channel>
