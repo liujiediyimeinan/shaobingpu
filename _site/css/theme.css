@@ -31,6 +31,14 @@ margin-after:0em;
 padding:0em;
 }
 
+a.anchor {
+    display: block;
+    position: relative;
+    top: -7.6em;
+    visibility: hidden;
+}
+
+
 body {
     padding-top: 70px;
     padding-bottom: 70px;

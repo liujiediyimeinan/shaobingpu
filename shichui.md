@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: youcailo
 comments: true
 ---
 
@@ -10,10 +10,17 @@ comments: true
     食用注意:所有"▲"标示的地方都可以点击这一行展开或收起。所有"*"标示的地方都还没有搬过来，正在不断完善中。
 
 ---
-#### 实锤目录 \| [后援会:集资乱账](#dxjja) \| [邓本伦:虚假流量](#dxjjb) \| [工作室:恶性营销](#dxjjc)  \| [粉丝群:网络暴力](#dxjjd)
+
+<div class="header" id="myHeader">
+  <h1>实锤菜单 | <a href="#dxjja">后援会:集资乱账</a> |
+      <a href="#dxjjb">邓本伦:虚假流量</a> |
+      <a href="#dxjjc">工作室:恶性营销</a> |
+      <a href="#dxjjd">粉丝群:网络暴力</a></h1>
+</div>
+
 ---
 
-<a name="dxjja"></a>
+<a class="anchor" name="dxjja"></a>
 
 # **1. 后援会: 集资乱账**
 
@@ -74,7 +81,7 @@ comments: true
 </ul>
 
 
-<a name="dxjjb"></a>
+<a class="anchor" name="dxjjb"></a>
 
 
 # **2. 邓本伦: 虚假流量**
@@ -160,7 +167,7 @@ comments: true
 
 </ul>
 
-<a name="dxjjc"></a>
+<a class="anchor" name="dxjjc"></a>
 
 
 # **3. 工作室: 恶性营销**
@@ -243,7 +250,7 @@ comments: true
 <ul><details><summary>3.5.1 *打脸邓伦的各种说</summary></details></ul>
 </ul>
 
-<a name="dxjjd"></a>
+<a class="anchor" name="dxjjd"></a>
 
 
 # **4. 粉丝群: 网络暴力**
