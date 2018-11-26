@@ -21,9 +21,15 @@
 
 /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
 .sticky + .content {
-  padding-top: 105px;
+  padding-top: 102px;
 }
 
+hr {
+margin-left: auto;
+margin-right: auto;
+margin-after:0em;
+padding:0em;
+}
 
 body {
     padding-top: 70px;
@@ -175,3 +181,4 @@ img {
   padding:0;
   margin-left:10%;
 }
+
