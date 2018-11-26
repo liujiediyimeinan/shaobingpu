@@ -11,7 +11,7 @@ comments: true
 
 ---
 
-<div class="header" id="myHeader">
+<div class="header">
   <h1>实锤菜单 | <a href="#dxjja">后援会:集资乱账</a> |
       <a href="#dxjjb">邓本伦:虚假流量</a> |
       <a href="#dxjjc">工作室:恶性营销</a> |
