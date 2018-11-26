@@ -134,7 +134,7 @@ comments: true
 <details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦不在剧组开不了工</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷精</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷英</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
 </ul></details>
