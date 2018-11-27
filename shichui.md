@@ -101,7 +101,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/买超话实锤">微博数据注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzI1OTQ2MTg0Mg==&mid=2247495898&idx=1&sn=adb922a8fda38a021a76f8cc3060404a">数据流分析流量数据脱水现场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -109,7 +109,6 @@ comments: true
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
-<li><a href="#">*饼族夜游的百度指数</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区海军名远扬">兔区海军名远扬</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
 <li><details><summary>点击就看邓伦数据粉群入组要求</summary><img src="{{ site.baseurl }}/images/v2-202649dc4c17fb8d287bbff6545c3294_hd.jpg"></details></li>
@@ -243,10 +242,26 @@ comments: true
 <ul>
 <li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
 </ul></details>
+</ul>
+
+3.5 抢番: 如果你为邓伦演女主
+
+<ul>
+<details open><summary>3.5.1 海棠待播剧: 改过无数次的番位</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关">抢番位撕戏份相关</a></li>
+</ul></details>
+
+<details open><summary>3.5.1 电视剧开屏: 香蜜一番无姓名</summary>
+<ul>
+<li><details><summary>点击就看没有姓名的一番女主</summary>
+<img src="{{ site.baseurl }}/images/302569563.jpg"></details></li>
+
+</ul></details>
 
 </ul>
 
-3.5 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+3.6 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
 
 <ul><details><summary>3.5.1 *打脸邓伦的各种说</summary></details></ul>
 </ul>
@@ -260,7 +275,9 @@ comments: true
 
 <ul>
 <details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓伦粉丝长期多次人肉网友选集</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓伦粉丝长期多次人肉网友合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/吃瓜看戏美少年人肉合集">吃瓜看戏美少年人肉合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝猫起事迹">猫起人肉网友合集</a></li>
 <li><a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯整理部分邓粉人肉网友合集</a></li>
 </ul></details>
 
@@ -326,6 +343,7 @@ comments: true
 <li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
+<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
