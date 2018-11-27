@@ -252,7 +252,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关">抢番位撕戏份相关</a></li>
 </ul></details>
 
-<details open><summary>3.5.1 电视剧开屏: 香蜜一番无姓名</summary>
+<details><summary>3.5.2 电视剧开屏: 香蜜一番无姓名</summary>
 <ul>
 <li><details><summary>点击就看没有姓名的一番女主</summary>
 <img src="{{ site.baseurl }}/images/302569563.jpg"></details></li>
@@ -263,7 +263,7 @@ comments: true
 
 3.6 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
 
-<ul><details><summary>3.5.1 *打脸邓伦的各种说</summary></details></ul>
+<ul><details><summary>3.6.1 *打脸邓伦的各种说</summary></details></ul>
 </ul>
 
 <a class="anchor" name="dxjjd"></a>
