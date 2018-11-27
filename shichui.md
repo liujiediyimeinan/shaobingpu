@@ -101,6 +101,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/买超话实锤">微博数据注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzI1OTQ2MTg0Mg==&mid=2247495898&idx=1&sn=adb922a8fda38a021a76f8cc3060404a">数据流分析流量数据脱水现场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
@@ -142,7 +143,7 @@ comments: true
 <details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦访谈现场节选">学霸人设崩塌 综艺访谈现场集</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌 六块腹肌的小肚腩</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌</a> | <a href="{{ site.baseurl }}/2018/11/洁癖人设崩塌">洁癖人设崩塌</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
 <li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/302391776.jpg"><img src="{{ site.baseurl }}/images/302481726.jpg"></details></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
