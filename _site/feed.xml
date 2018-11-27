@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>六界第一美男烧饼铺</title>
-		<description>欢迎来到武大伦团队倾力打造的2018年度魔幻现实主义大饼仓</description>
+		<description>欢迎来到邓伦团队倾力打造的年度魔幻现实主义大饼仓</description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
