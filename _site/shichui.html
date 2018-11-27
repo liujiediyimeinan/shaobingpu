@@ -66,6 +66,22 @@
 
 
 
+<script type="text/javascript">
+$(document).ready(function(){
+  $(window).scroll(function(){
+      if ($(this).scrollTop() > 100) {
+          $('.scrollUpButton').fadeIn();
+      } else {
+          $('.scrollUpButton').fadeOut();
+      }
+  });
+  $('.scrollUpButton').click(function(){
+      $("html, body").animate({ scrollTop: 0 }, 300);
+      return false;
+  });
+ });
+</script>
+
 <div class="container container-left">
     <div class="row">
         <div class="col-md-3 hidden-xs">
@@ -523,6 +539,6 @@ function myFunction() {
     </div>
 </div>
 
-
+<a href="#" class="scrollUpButton">&#9650</a>
 </body>
 </html>
