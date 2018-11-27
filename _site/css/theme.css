@@ -4,7 +4,6 @@ body {
     line-height: 1.7em;
 }
 
-
 .copyright {
     color: #ffffff;
 }
@@ -196,11 +195,6 @@ img {
 .well1 ul ul ul ul{
   padding:0;
   margin-left:10%;
-}
-
-hr {
-margin:0em;
-padding:0.1em;
 }
 
 a.anchor {
