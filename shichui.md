@@ -216,7 +216,10 @@ comments: true
 
 3.3 插刀: 如果你有个邓伦一样的好朋友
 <ul>
-<details open><summary><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">3.3.1 凳子CP炒作相关</a></summary></details>
+<details open><summary>3.3.1 凳子CP炒作相关</summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/北奥后援疑受邓伦官控">北奥后援疑受邓伦官方掌控</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关:捆绑撩粉</a></li>
+</ul></details>
 <details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
 <li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
@@ -324,9 +327,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a></li>
-<li><details><summary>点击就看邓伦粉丝QQ群里教盗号</summary><img src="{{ site.baseurl }}/images/302186328.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/工作室10月声明相关">与DXJJ切磋后账号异常</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a></li>
 </ul></details>
 </ul>
@@ -336,6 +337,7 @@ comments: true
 <ul>
 <details open><summary>4.3.1 豆瓣锁场赶人 b站举报下架 兔区删帖封号</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜撕逼组爱邓伦 高赞剧照离奇消失</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关合集">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
 </ul></details>
 
 <details open><summary>4.3.2 微博当场去世 知乎折叠降赞 天涯轰然坍塌</summary>
