@@ -218,7 +218,7 @@ comments: true
 <ul>
 <details open><summary>3.3.1 凳子CP炒作相关</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/北奥后援疑受邓伦官控">北奥后援疑受邓伦官方掌控</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关:捆绑撩粉</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关</a></li>
 </ul></details>
 <details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
@@ -244,6 +244,7 @@ comments: true
 <details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
 <ul>
 <li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
+<li><a href="{{ site.baseurl }}/2018/11/其余CP炒作相关">其余CP炒作相关</a></li>
 </ul></details>
 </ul>
 
