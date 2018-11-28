@@ -23,7 +23,7 @@ body {
  display: none;
  opacity: 0.4;
  position: fixed;
- bottom: 20px;
+ bottom: 30px;
  right: 10px;
  display: none;
  background: #000;
@@ -36,7 +36,7 @@ body {
  outline: none;
  text-decoration: none;
  color: #fff;
- opacity: 1;
+ opacity: .8;
 }
 
 
