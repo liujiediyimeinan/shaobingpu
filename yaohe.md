@@ -10,12 +10,23 @@ comments: true
 ---
 
 只存锤，不尬黑。努力产粮，欢乐锤饼。  
-实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请移步 [烧饼铺天涯门面](http://bbs.tianya.cn/post-funinfo-7726050-1.shtml) 。  
-感谢六界扩散，请认准六界第一美男烧饼铺。
+实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请移步 [天涯六界第一烧饼铺门面](http://bbs.tianya.cn/post-funinfo-7726050-1.shtml) 。  
+感谢六界扩散，我们是六界第一美男烧饼铺  <input onclick="oCopy(this)" value="https://liujiediyimeinan.github.io/shaobingpu/huanying.html" size="52">。
 
+<script language="javascript">
+function oCopy(obj){
+obj.select();
+js=obj.createTextRange();
+js.execCommand("Copy")
+alert("复制成功!");
+}
+</script>
+
+---
 
 <img src="{{ site.baseurl }}/images/bingpu.png" height="180" width="180" />
 
+---
 
 <center>
 <a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜的道友请往这里</a> | 
