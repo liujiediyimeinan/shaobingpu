@@ -52,6 +52,7 @@ comments: true
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">初中粉丝爆料大金瓶:公益冲销量 非公开集资 赚人零花钱</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/果酱打榜相关">果酱爱豆榜:打榜失败 公益挽尊？</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益集资变拿钱白嫖">粉丝爆料:生日公益集资变大粉拿钱白嫖？</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/某邓粉被开除粉籍事件">邓伦粉爆大金瓶集资公益无下文</a></li>
 </ul></details>
 
 <details open><summary>1.2.2 生日开屏事件: 逃税为省钱 整治成空言</summary>
@@ -278,10 +279,9 @@ comments: true
 <ul>4.1 人肉造谣
 
 <ul>
-<details open><summary>4.1.1 人肉网友: 疑似邓伦粉丝长期人肉网友 波及路人</summary>
+<details open><summary>4.1.1 人肉网友: 部分邓伦粉丝长期人肉网友 波及路人</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓伦粉丝长期多次人肉网友合集</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/吃瓜看戏美少年人肉合集">邓伦粉丝吃瓜看戏美少年人肉合集</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝猫起事迹">邓伦粉丝猫起人肉网友合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/吃瓜看戏美少年人肉合集">吃瓜看戏美少年合集</a> | <a href="{{ site.baseurl }}/2018/11/邓伦粉丝猫起事迹">猫起合集</a></li>
 <li><a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯整理部分邓粉人肉网友合集</a></li>
 </ul></details>
 
@@ -297,6 +297,7 @@ comments: true
 <details open><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号成分统计</a></li>
 <li><details><summary>点击就看香蜜艺术总监:敬畏之心被黑子碾压</summary><img src="{{ site.baseurl }}/images/302267432.jpg"></details></li>
+<li><details><summary>点击就看疑邓伦粉发言:骂作者得两千赞</summary><img src="{{ site.baseurl }}/images/302752341.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary>
