@@ -10,27 +10,39 @@ comments: true
 ---
 
 只存锤，不尬黑。努力产粮，欢乐锤饼。  
-实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请移步 [天涯六界第一烧饼铺门面](http://bbs.tianya.cn/post-funinfo-7726050-1.shtml) 。  
-感谢六界扩散，我们是六界第一美男烧饼铺  <input onclick="oCopy(this)" value="https://liujiediyimeinan.github.io/shaobingpu/huanying.html" size="52">。
+实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请往 [天涯六界第一烧饼铺 | 点此进入](http://bbs.tianya.cn/post-funinfo-7726050-1.shtml) 。  
+感谢六界扩散，请认准 <a href="javascript:myFunction()">六界第一美男烧饼铺 | 点此复制网址</a> 。
 
 <script language="javascript">
-function oCopy(obj){
-obj.select();
-js=obj.createTextRange();
-js.execCommand("Copy")
-alert("复制成功!");
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("myInput");
+
+  /* Select the text field */
+  copyText.select();
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("已复制小铺网址: " + copyText.value);
 }
 </script>
 
 ---
 
 <img src="{{ site.baseurl }}/images/bingpu.png" height="180" width="180" />
+<center><input type="text" onclick="myFunction()" size="18" value="http://t.cn/EAhf468" id="myInput"></center>
 
 ---
 
 <center>
 <a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜的道友请往这里</a> | 
 <a href="#dxjja">保存饼铺的方法请见这里</a><br>
+
+<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集">烧饼铺宣传图集</a> | 
+<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集">烧饼铺二维码集</a><br>
+
 <a href="http://star-fans.com/app/dist/play.html?id=709656&shareuserid=811078&sharetime=1542707843667&isqrcode=0&platform=5">饼铺主题歌——欢迎来到烧饼铺</a> | 
 <a href="http://star-fans.com/app/dist/play.html?id=709642&shareuserid=811078&sharetime=1542707912515&isqrcode=0&platform=5">饼铺宣传曲——请记得搜烧饼铺</a>
 </center>
