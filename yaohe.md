@@ -37,8 +37,8 @@ function myFunction() {
 ---
 
 <center>
-<a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜的道友请往这里</a> | 
-<a href="#dxjja">保存饼铺的方法请见这里</a><br>
+<a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜请往这里</a> | 
+<a href="#dxjja">保存饼铺请见这里</a><br>
 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjjb">烧饼铺二维码集</a><br>
