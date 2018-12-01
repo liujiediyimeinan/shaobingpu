@@ -40,8 +40,8 @@ function myFunction() {
 <a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜的道友请往这里</a> | 
 <a href="#dxjja">保存饼铺的方法请见这里</a><br>
 
-<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集">烧饼铺宣传图集</a> | 
-<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集">烧饼铺二维码集</a><br>
+<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
+<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjjb">烧饼铺二维码集</a><br>
 
 <a href="http://star-fans.com/app/dist/play.html?id=709656&shareuserid=811078&sharetime=1542707843667&isqrcode=0&platform=5">饼铺主题歌——欢迎来到烧饼铺</a> | 
 <a href="http://star-fans.com/app/dist/play.html?id=709642&shareuserid=811078&sharetime=1542707912515&isqrcode=0&platform=5">饼铺宣传曲——请记得搜烧饼铺</a>
