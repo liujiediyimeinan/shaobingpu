@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b28c1e3-de5a-4301-8415-559bd1d95142" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/yaohelo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/yaohelo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-28-有饼来袭故事系列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-29-六界生态图.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一个天涯路人的亲身经历.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一个天涯路人的亲身经历.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一位前邓伦粉的脱粉感言.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一位前邓伦粉的脱粉感言.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一位天涯人的脱粉现场.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一位天涯人的脱粉现场.html" afterDir="false" />
@@ -45,7 +42,7 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/公爵制饼作品集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/公爵制饼作品集.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/公益作集资的遮羞布.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/公益作集资的遮羞布.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/公益集资变拿钱白嫖.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/公益集资变拿钱白嫖.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/11/六界生态图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/六界生态图作品集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/六界生态图作品集.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/六界盗号封号相关.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/六界盗号封号相关.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/六界讽灯芯纳饼.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/六界讽灯芯纳饼.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/关于舆论暴力的评论.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/关于舆论暴力的评论.html" afterDir="false" />
@@ -300,25 +297,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="536">
+              <caret line="205" selection-start-line="205" selection-end-line="205" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
@@ -372,12 +360,7 @@
             <path>
               <item name="shaobingpu" type="b2602c69:ProjectViewProjectNode" />
               <item name="shaobingpu" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shaobingpu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shaobingpu" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,7 +399,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1169" height="773" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -450,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="536">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
         </state>
       </provider>
     </entry>
