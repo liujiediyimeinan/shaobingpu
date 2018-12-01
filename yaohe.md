@@ -65,7 +65,7 @@ function myFunction() {
 
 再次赞美在六界扩散小铺的各位！
 
-<a name="dxjja"></a>
+<a class="anchor" name="dxjja"></a>
 
 ---
 

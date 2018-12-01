@@ -23,7 +23,7 @@ body {
  display: none;
  opacity: 0.4;
  position: fixed;
- bottom: 30px;
+ bottom: 40px;
  right: 10px;
  display: none;
  background: #000;
@@ -200,6 +200,6 @@ img {
 a.anchor {
     display: block;
     position: relative;
-    top: -7.6em;
+    top: -5em;
     visibility: hidden;
 }
