@@ -41,7 +41,7 @@ function myFunction() {
 <a href="#dxjja">保存饼铺请见这里</a><br>
 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
-<a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjjb">烧饼铺二维码集</a><br>
+<a href="https://m.weibo.cn/6763905640/4312925650828851">烧饼铺宣传视频</a><br>
 
 <a href="http://star-fans.com/app/dist/play.html?id=709656&shareuserid=811078&sharetime=1542707843667&isqrcode=0&platform=5">饼铺主题歌——欢迎来到烧饼铺</a> | 
 <a href="http://star-fans.com/app/dist/play.html?id=709642&shareuserid=811078&sharetime=1542707912515&isqrcode=0&platform=5">饼铺宣传曲——请记得搜烧饼铺</a>

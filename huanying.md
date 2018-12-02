@@ -9,13 +9,6 @@ comments: true
 
 ---
 
-![图0]({{ site.baseurl }}/images/o1cthonq3o2wLF7gbZ4n7bODMLvwUEVo.jpg)
-
----
-
-#### [欢迎来到邓伦-公钰涵团队缔造的魔幻现实世界]({{ site.baseurl }}/shichui.html)
-
----
 
 58天的时间里，点击量超800万，回复数超20万的天涯高楼<br>
 《**兔区高楼"六界第一美男"搬运帖——兼论知否关大被网络暴力逼退微博**》<br>
@@ -29,3 +22,8 @@ comments: true
 **究竟有什么不可说的呀？**
 
 ---
+
+#### [欢迎来到邓伦-公钰涵团队缔造的魔幻现实世界]({{ site.baseurl }}/shichui.html)
+
+---
+
