@@ -211,7 +211,7 @@ comments: true
 
 <details open><summary>3.2.2 1001夜事件: 套路防爆 是谁无声无息没了姓名</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/直击网暴现场">1001夜男二受网暴情况</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/1001夜男二受网暴情况">1001夜男二受网暴情况</a></li>
 </ul></details>
 </ul>
 

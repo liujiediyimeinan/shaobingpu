@@ -69,8 +69,8 @@ body {
 .sidebar h1 {
     color: #ee4444;
     font-size: 1.3em;
-    padding-top: 0em;
-    padding-bottom: 0.4em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
     margin:0;
 }
 
@@ -127,8 +127,8 @@ img {
 
 .well1 h1 {
     color: #ee4444;
-    margin-top: 0em;
-    margin-bottom: 1em;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
     margin-left: 0em;
     padding:0;
     font-size: 1.3em;
@@ -202,4 +202,9 @@ a.anchor {
     position: relative;
     top: -5em;
     visibility: hidden;
+}
+
+hr {
+    margin: 0.1em;
+    padding: 0.1em;
 }
