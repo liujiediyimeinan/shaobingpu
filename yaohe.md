@@ -25,7 +25,7 @@ function myFunction() {
   document.execCommand("copy");
 
   /* Alert the copied text */
-  alert("已复制小铺网址: " + copyText.value);
+  alert("电脑端已复制小铺网址: " + copyText.value + "\n手机端还在开发中，感谢支持!");
 }
 </script>
 
