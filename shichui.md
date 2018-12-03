@@ -267,7 +267,7 @@ comments: true
 
 3.6 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
 
-<ul><details><summary>3.6.1 *打脸邓伦的各种说</summary></details></ul>
+<ul><details><summary><a href="{{ site.baseurl }}/2018/11/打脸邓伦的各种洗白说法">3.6.1 打脸为邓伦本人洗白的各种说法</a></summary></details></ul>
 </ul>
 
 <a class="anchor" name="dxjjd"></a>
