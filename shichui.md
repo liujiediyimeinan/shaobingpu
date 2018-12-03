@@ -28,7 +28,7 @@ comments: true
 
 <ul>
 <details open><summary>1.1.1 以真朋友应援事件为例: 九万烧饼宴 喜提人民网</summary>
-<ul><li><a href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
+<ul><li><a target="_blank" href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网:邓伦粉丝集资送烧饼惹争议</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/烧饼宴事件详解">烧饼宴事件详细解析</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/烧饼宴背后的疑账">多方剖析烧饼宴背后的乱账</a></li>
 </ul></details>
@@ -279,7 +279,7 @@ comments: true
 
 <ul>
 <details open><summary>4.1.1 人肉网友: 部分邓伦粉丝长期人肉网友 波及路人</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓粉长期人肉网友</a> | <a href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯邓粉人肉帖</a></li>
+<ul><li><a href="{{ site.baseurl }}/2018/11/邓伦粉丝人肉网友合集">部分邓粉长期人肉网友</a> | <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7745960-1.shtml">天涯邓粉人肉帖</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/吃瓜看戏美少年人肉合集">吃瓜看戏美少年合集</a> | <a href="{{ site.baseurl }}/2018/11/邓伦粉丝猫起事迹">猫起就要任性合集</a></li>
 </ul></details>
 
@@ -303,7 +303,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评存档">关心则乱香蜜剧评存档</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评始末">关大退博事件始末</a></li>
-<li><a href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼遗址</a> | <a href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">美男楼凭吊专用帖</a></li>
+<li><a target="_blank" href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼遗址</a> | <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">美男楼凭吊专用帖</a></li>
 </ul></details>
 
 <details open><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>

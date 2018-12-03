@@ -10,7 +10,7 @@ comments: true
 ---
 
 只存锤，不尬黑。努力产粮，欢乐锤饼。  
-实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请往 [天涯六界第一烧饼铺 | 点此进入](http://bbs.tianya.cn/post-funinfo-7726050-1.shtml) 。  
+实锤来自饼公灯团队，油菜来自六界道友。指出错漏，澄清尬黑，建议意见请往 <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">天涯六界第一烧饼铺 | 点此进入</a> 。  
 感谢六界扩散，请认准 <a href="javascript:myFunction()">六界第一美男烧饼铺 | 点此复制网址</a> 。
 
 <script language="javascript">
@@ -37,18 +37,19 @@ function myFunction() {
 ---
 
 <center>
-<a href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜请往这里</a> | 
+<a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜请往这里</a> | 
 <a href="#dxjja">保存饼铺请见这里</a><br>
 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
 <a href="https://m.weibo.cn/6763905640/4312925650828851">烧饼铺宣传视频</a><br>
 
-<a href="http://star-fans.com/app/dist/play.html?id=709656&shareuserid=811078&sharetime=1542707843667&isqrcode=0&platform=5">饼铺主题歌——欢迎来到烧饼铺</a> | 
-<a href="http://star-fans.com/app/dist/play.html?id=709642&shareuserid=811078&sharetime=1542707912515&isqrcode=0&platform=5">饼铺宣传曲——请记得搜烧饼铺</a>
+<a target="_blank" href="http://star-fans.com/app/dist/play.html?id=709656&shareuserid=811078&sharetime=1542707843667&isqrcode=0&platform=5">饼铺主题歌——欢迎来到烧饼铺</a> | 
+<a target="_blank" href="http://star-fans.com/app/dist/play.html?id=709642&shareuserid=811078&sharetime=1542707912515&isqrcode=0&platform=5">饼铺宣传曲——请记得搜烧饼铺</a>
 </center>
 
 ---
 
+<br>
 
     11.29
 

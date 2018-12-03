@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="5b28c1e3-de5a-4301-8415-559bd1d95142" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-23-香蜜男二受网暴情况节选.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-30-对造谣加戏的澄清.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-30-对造谣加戏的澄清.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default copy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/yaohelo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/yaohelo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/youcailo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/youcailo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/1001夜男二受网暴情况.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/1001夜男二受网暴情况.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一个天涯路人的亲身经历.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一个天涯路人的亲身经历.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一位前邓伦粉的脱粉感言.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一位前邓伦粉的脱粉感言.html" afterDir="false" />
@@ -231,7 +236,6 @@
       <change beforePath="$PROJECT_DIR$/_site/assets/tipuesearch/tipuesearch_content.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/tipuesearch/tipuesearch_content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/daiyan.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/daiyan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/huanying.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/huanying.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/meibing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/meibing.html" afterDir="false" />
@@ -259,7 +263,10 @@
       <change beforePath="$PROJECT_DIR$/_site/shichui.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/shichui.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/yaohe.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/yaohe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/youcai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/youcai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huanying.md" beforeDir="false" afterPath="$PROJECT_DIR$/huanying.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shichui.md" beforeDir="false" afterPath="$PROJECT_DIR$/shichui.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaohe.md" beforeDir="false" afterPath="$PROJECT_DIR$/yaohe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youcai.html" beforeDir="false" afterPath="$PROJECT_DIR$/youcai.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -278,35 +285,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="51" />
-          <entry key="html" value="9" />
+          <entry key="css" value="57" />
+          <entry key="html" value="11" />
           <entry key="yml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="51" />
-          <entry key="HTML" value="9" />
+          <entry key="CSS" value="57" />
+          <entry key="HTML" value="11" />
           <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="1" />
+          <entry key="html" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
@@ -316,9 +323,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youcai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
+            <state relative-caret-position="282">
               <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
             </state>
           </provider>
@@ -333,12 +358,14 @@
       <find>买超话实锤</find>
       <find>直击网暴现场</find>
       <find>hr</find>
+      <find>&lt;a href=&quot;http://</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;a class=&quot;anchor&quot; name</replace>
       <replace>name=</replace>
       <replace>微博数据注水实锤集</replace>
       <replace>1001夜男二受网暴情况</replace>
+      <replace>&lt;a target=&quot;_blank&quot; href=&quot;http://</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -350,6 +377,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/yaohelo.html" />
         <option value="$PROJECT_DIR$/css/theme.css" />
+        <option value="$PROJECT_DIR$/youcai.html" />
       </list>
     </option>
   </component>
@@ -374,7 +402,7 @@
             <path>
               <item name="shaobingpu" type="b2602c69:ProjectViewProjectNode" />
               <item name="shaobingpu" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Wonderland/shaobingpu/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -459,10 +480,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="207" column="15" selection-start-line="207" selection-start-column="15" selection-end-line="207" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youcai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
