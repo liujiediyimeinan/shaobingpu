@@ -68,6 +68,7 @@ comments: true
 <details open><summary>1.3.1 后援会受工作室直辖</summary>
 <ul>
 <li><a href="{{ site.baseurl}}/2018/11/公公直管VIP群的聊天记录">经纪人聊天爆料:掌握VIP后援会动态 了解账目问题并包庇</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/遍地开花的后援会">集资假账问题悬而不决 全国各地后援会遍地开花</a></li>
 <li><a href="https://www.zhihu.com/question/294162103/answer/490270211">一些指向后援会受工作室管辖的证据</a></li>
 <li><details><summary>来自其他途径的爆料图</summary><img src="{{ site.baseurl }}/images/301702177.jpg"></details></li>
 </ul>
@@ -137,7 +138,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜期间轧戏实锤">香蜜轧戏行程实锤 邓伦不在剧组开不了工</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷英</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
 </ul></details>
 
 <details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
@@ -239,13 +240,15 @@ comments: true
 <details open><summary>3.4.1 前女友复合事件: 迪奥又做错了什么</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/公公在线答疑">公公在线答疑:复合?这辈子都不可能</a></li>
-<li><a href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">一条手链引发的血案</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/一条手链引发的血案">一条手链引发的血案</a> | <a href="{{ site.baseurl }}/2018/11/一条手链引发的血案#dxjjb">对手链血案的澄清</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a> | <a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/豆瓣扒到底是谁在推谣言">疑邓粉在豆瓣散布谣言</a></li>
 </ul></details>
 <details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
 <ul>
 <li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/其余CP炒作相关">其余CP炒作相关</a></li>
+<li><a target="_blank" href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">谁是戏精之口误背后</a></li>
 </ul></details>
 </ul>
 
