@@ -180,6 +180,7 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/前邓粉爆营销号控评操作">前邓粉爆控评:营销号下场 发博控评甩锅一条龙</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
@@ -230,7 +231,7 @@ comments: true
 </ul></details>
 <details open><summary>3.3.3 杨紫方对此的表态:欠下的总要偿还</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/杨紫工作室网暴声明">11月23日工作室网暴声明</a></li>
-<li><a href="杨紫方拒绝捆绑合集">杨紫工作室拒绝捆绑合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/杨紫方拒绝捆绑合集">杨紫工作室拒绝捆绑合集</a></li>
 </ul></details>
 </ul>
 
