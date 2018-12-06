@@ -180,7 +180,6 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/前邓粉爆营销号控评操作">前邓粉爆控评:营销号下场 发博控评甩锅一条龙</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
@@ -247,7 +246,7 @@ comments: true
 </ul></details>
 <details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
 <ul>
-<li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"></details></li>
+<li><details><summary>点击就看到处撩骚的自持伦</summary><img src="{{ site.baseurl }}/images/302271967.gif"><img src="{{ site.baseurl }}/images/302271987.gif"><img src="{{ site.baseurl }}/images/303038643.gif"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/其余CP炒作相关">其余CP炒作相关</a></li>
 <li><a target="_blank" href="https://www.weibo.com/ttarticle/p/show?id=2309404284875812301820">谁是戏精之口误背后</a></li>
 </ul></details>
