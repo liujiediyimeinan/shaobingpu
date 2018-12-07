@@ -1,4 +1,28 @@
 <!DOCTYPE html>
+<head>
+
+<!--Little CSS fade in -->
+<style>
+.fade-in{
+  -webkit-animation: fade-in .5s ease;
+  -moz-animation: fade-in ease-in-out .5s both;
+  -ms-animation: fade-in ease-in-out .5s both;
+  -o-animation: fade-in ease-in-out .5s both;
+  animation: fade-in .5s ease;
+  visibility: visible;
+  -webkit-backface-visibility: hidden;
+}
+
+@-webkit-keyframes fade-in{0%{opacity:0;} 100%{opacity:1;}}
+@-moz-keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+@-o-keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+@keyframes fade-in{0%{opacity:0} 100%{opacity:1}}
+
+</style>
+</head>
+<body>
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -60,27 +84,10 @@
 
 
 
-<script type="text/javascript">
-$(document).ready(function(){
-  $(window).scroll(function(){
-      if ($(this).scrollTop() > 100) {
-          $('.scrollUpButton').fadeIn();
-      } else {
-          $('.scrollUpButton').fadeOut();
-      }
-  });
-  $('.scrollUpButton').click(function(){
-      $("html, body").animate({ scrollTop: 0 }, 300);
-      return false;
-  });
- });
-</script>
-
 <div class="container container-left">
     <div class="row">
-        
         <div class="col-md-3 hidden-xs">
-                <div class="sidebar well">
+            <div class="sidebar well">
 欢迎来到邓伦团队倾力打造的年度魔幻现实主义大饼仓
 </div>
 
@@ -128,55 +135,82 @@ $(document).ready(function(){
 </div>
 
         </div>
-        
         <div class="col-md-9">
-          <div class="article">
+            <div class="article">
             <div class="well">
-                <h2><a href="/2018/11/%E7%83%A7%E9%A5%BC%E5%AE%B4%E4%BA%8B%E4%BB%B6%E8%AF%A6%E8%A7%A3">锤·烧饼宴事件详解</a></h2>
-                <br>
-                <h5>原作者 @我实在是太CJ了</h5>
-                <h5>转载于 Nov 12, 2018</h5>
-                <br>
-            
-                
-            
-            <div class="post-content">
-            <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>对于9月集资9万置办杀青烧饼宴事件来龙去脉的分析，转自微信@我实在是太CJ了(微信号cj10141234)。
-</code></pre></div></div>
+                <div class="post-content">
+                <h2 id="六界第一美男烧饼铺-举手之劳">六界第一美男烧饼铺-举手之劳</h2>
+<h1 id="关心集资问题抵制网络暴力路见不平拔刀举报">关心集资问题，抵制网络暴力。路见不平，拔刀举报。</h1>
 
 <hr />
-<h4 id="推荐阅读--烧饼宴背后的疑账--多次高额集资问题--后援会工作室问题重重--四川后援会相关实锤">推荐阅读 | <a href="/2018/11/烧饼宴背后的疑账">烧饼宴背后的疑账</a> | <a href="/2018/11/后援会多次高额集资问题">多次高额集资问题</a> | <a href="/2018/11/后援会工作室背后疑云">后援会工作室问题重重</a> | <a href="/2018/11/四川后援会相关实锤">四川后援会相关实锤</a></h4>
+<h4 id="推荐阅读--人民网评烧饼宴集资乱账--部分邓伦粉丝人肉网友合集--举报长信模板">推荐阅读 | <a target="_blank" href="http://media.people.com.cn/n1/2018/0912/c40606-30287336.html">人民网评烧饼宴集资乱账</a> | <a href="/2018/11/邓伦粉丝人肉网友合集">部分邓伦粉丝人肉网友合集</a> | <a href="/2018/11/致广电总局的举报长信">举报长信模板</a></h4>
 <hr />
 
-<p><img src="/images/sby1.png" alt="图" />
-<img src="/images/sby2.png" alt="图" />
-<img src="/images/sby3.png" alt="图" />
-<img src="/images/sby4.png" alt="图" /></p>
+<h2 id="以下网站有匿名举报选项有实名举报选项有填写联系方式选项均有举报处理回执不用担心举报的不被处理">以下网站有匿名举报选项，有实名举报选项，有填写联系方式选项。均有举报处理回执，不用担心举报的不被处理。</h2>
 
+<h5 id="中央网信办国家互联网信息办公室违法和不良信息举报中心">中央网信办（国家互联网信息办公室）违法和不良信息举报中心</h5>
+<p><a target="_blank" href="http://t.cn/R0eItOM">点此进入</a><br />
+除直接登录网址举报之外，还可拨打12377举报热线举报；使用12377的微博和微信进行举报</p>
+
+<hr />
+
+<h5 id="12321网络不良与垃圾信息举报受理中心">12321网络不良与垃圾信息举报受理中心</h5>
+<p><a target="_blank" href="http://t.cn/RfXu7bc">点此进入</a><br />
+12321网络不良与垃圾信息举报受理中心为工业和信息化部委托中国互联网协会设立的公众举报受理机构，负责协助工业和信息化部承担关于互联网、电话网等信息通信网络中的不良与垃圾信息举报受理、调查分析以及查处工作。</p>
+
+<hr />
+
+<h5 id="公安部网络安全保卫局违法犯罪举报网站">公安部网络安全保卫局违法犯罪举报网站</h5>
+<p><a target="_blank" href="http://t.cn/h61oH">点此进入</a><br />
+公安部旗下网站，受理范围包括：  <br />
+利用互联网捏造或者歪曲事实、散布谣言，扰乱社会秩序的<br />
+利用互联网建立淫秽色情网站、网页，提供相关站点链接，传播相关色情信息，组织网上色情的</p>
+
+<hr />
+
+<h5 id="中国扫黄打非网">中国扫黄打非网</h5>
+<p><a target="_blank" href="http://t.cn/zYEzWFr">点此进入</a><br />
+归属国家广播电视总局，系全国’扫黄打非’工作小组办公室网络举报站点。</p>
+
+<hr />
+
+<h5 id="互联网和手机媒体色情信息举报">互联网和手机媒体色情信息举报</h5>
+<p><a target="_blank" href="http://t.cn/RKccT7T">点此进入</a><br />
+归属国家广播电视总局，系广电总局网站互联网色情信息举报站点。</p>
+
+                </div>
+
+                <!--We appendin' on this div - ps: ids make sense here... punk-->
+<div id="banner-load"></div>
+
+<!--Don't forget Jquery-->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+
+<!--New images on load -->
+<script>
+//Add your images, we'll set the path in the next step
+    var images = ['301825819.jpg','301787929.jpg','301752266.jpg','301858786.jpg','301850283.gif','301828012.gif',
+    '301828020.gif','301828026.gif','cy01.jpg','cy02.jpg','cy03.jpg','cy04.jpg','cy05.jpg','cy06.jpg','cy07.jpg',
+                  'cy08.jpg','cy09.jpg','cy10.jpg','bt.jpg','301962211.jpg','301972092.jpg','301993698.jpg',
+    '301815513.jpg','bg.jpg','kp1.jpg','kp2.jpg','301785513.jpg','302134243.jpg','302588288.jpg','302688537.jpg',
+    '302696704.jpg','o1cthonq3o2wLF7gbZ4n7bODMLvwUEVo.jpg','302816912.jpg','303018127.jpg','303024165.png'];
+
+//Build the img, then do a bit of maths to randomize load and append to a div. Add a touch off css to fade them badboys in all sexy like.
+    $('<img class="fade-in" src="images/' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
+</script>
+                <center>图片由六界网友制作</center>
+                <hr>
             </div>
-            
-                
-            
             </div>
-          </div><center>
-          <div class="pagination">
 
-              
-                <a class="btn btn-default" href="/2018/11/%E9%94%A4%E9%A5%BC%E6%88%91%E4%BB%AC%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84" class="next"><</a>
-              
-               <a class="btn btn-default" href="/shichui.html" class="home">实锤菜单</a>
-                  <a class="btn btn-default" href="#" class="home">↑</a>
-                  <a class="btn btn-default" href="/youcai.html" class="home">油菜佐食</a>
-              
-                <a class="btn btn-default" href="/2018/11/%E6%9C%80%E4%B9%8C%E9%B8%A6%E6%B5%81%E9%87%8F%E5%A5%96%E8%B4%BA%E5%9B%BE" class="previous">></a>
-              
-
-          </div></center>
         </div>
+        <center>&copy;2018 六界第一美男烧饼铺. Powered by <a target="_blank" href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons.</a></center>
+
     </div>
 </div>
 
-<a href="#" class="scrollUpButton">&#9650</a>
 
 
 
+</body>
+</html>

@@ -25,20 +25,23 @@ function myFunction() {
   document.execCommand("copy");
 
   /* Alert the copied text */
-  alert("电脑端已复制小铺网址: " + copyText.value + "\n手机端还在开发中，感谢支持!");
+  alert("电脑端已复制小铺网址: " + copyText.value + "\n手机端请点击二维码下方网址手动复制，谢谢支持:P");
 }
 </script>
 
 ---
 
 <img src="{{ site.baseurl }}/images/bingpu.png" height="180" width="180" />
-<center><input type="text" onclick="myFunction()" size="18" value="http://t.cn/EAhf468" id="myInput"></center>
+<center><input type="text" onclick="this.setSelectionRange(0, this.value.length)" size="18" value="http://t.cn/EAhf468" id="myInput"></center>
 
 ---
 
 <center>
 <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜请往这里</a> | 
 <a href="#dxjja">保存饼铺请见这里</a><br>
+
+<a target="_blank" href="{{ site.baseurl }}/daiyan.html">代言列表请见这里</a> | 
+<a href="{{ site.baseurl }}/jubao.html">举报通道请往这里</a><br>
 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
 <a href="https://m.weibo.cn/6763905640/4312925650828851">烧饼铺宣传视频</a><br>
