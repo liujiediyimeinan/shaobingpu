@@ -88,6 +88,12 @@ body {
     color: #3071a9;
 }
 
+.sidebar {
+ padding-top:0.2em;
+ padding-bottom:0.4em;
+ margin-bottom: 1em;
+}
+
 .container-left {
     margin: 0;
 }
