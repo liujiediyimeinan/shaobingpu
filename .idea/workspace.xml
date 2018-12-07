@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b28c1e3-de5a-4301-8415-559bd1d95142" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/yaohelo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/yaohelo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-30-吃瓜群众对邓伦的风评.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-30-吃瓜群众对邓伦的风评.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-5-凳子CP炒作相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-5-凳子CP炒作相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-5-烧饼铺宣传图集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/1001夜男二受网暴情况.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/1001夜男二受网暴情况.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/DXJJ双标史相关作品集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/DXJJ双标史相关作品集.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/一个剧粉书粉的心路历程.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/一个剧粉书粉的心路历程.html" afterDir="false" />
@@ -20,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/不能屏蔽的邓伦.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/不能屏蔽的邓伦.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/丑奴儿我是中国公民.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/丑奴儿我是中国公民.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/个人分析白龙熄灯.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/个人分析白龙熄灯.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/个人感受.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/个人感受.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/为DXJJ正名.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/为DXJJ正名.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/为什么我们愿意付出心力.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/为什么我们愿意付出心力.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/为什么我要谴责烧饼团队.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/为什么我要谴责烧饼团队.html" afterDir="false" />
@@ -90,11 +88,14 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/好饿的半夜摸鱼.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/好饿的半夜摸鱼.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/如何看待美男高楼.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/如何看待美男高楼.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/如何评价欧莱雅解锁失败.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/如何评价欧莱雅解锁失败.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/娱乐圈中有一饼.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/娱乐圈中有一饼.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/守株智兔.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/守株智兔.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/对造谣加戏的澄清.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/对造谣加戏的澄清.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/对饼从安利到吐血.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/对饼从安利到吐血.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/少年强则中国强.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/少年强则中国强.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/就是那一个饼.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/就是那一个饼.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/巴啦啦小馍尊.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/巴啦啦小馍尊.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/延禧攻略饼饰版.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/延禧攻略饼饰版.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/当海军走错片场.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/当海军走错片场.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/微博在线去世.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/微博在线去世.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/微博数据注水实锤集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/微博数据注水实锤集.html" afterDir="false" />
@@ -111,7 +112,9 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/我们发声是为了什么.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我们发声是为了什么.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/我文已死以此祭奠.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我文已死以此祭奠.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/我的全部.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我的全部.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/我的锤饼心路.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我的锤饼心路.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/我继续搬砖.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我继续搬砖.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/我说一句.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我说一句.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/我说说我的看法吧.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/我说说我的看法吧.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/打脸邓伦的各种洗白说法.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/打脸邓伦的各种洗白说法.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/抵制劣迹艺人.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/抵制劣迹艺人.html" afterDir="false" />
@@ -120,6 +123,7 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/指哪打哪的海军.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/指哪打哪的海军.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/撕番撕戏份相关.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/撕番撕戏份相关.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/撕逼与围笑.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/撕逼与围笑.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/擀面杖的吃瓜日常.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/擀面杖的吃瓜日常.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/放禽吸粪小剧场.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/放禽吸粪小剧场.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/故事分析烧饼营销策略.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/故事分析烧饼营销策略.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/故宫小姐姐被投诉事件.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/故宫小姐姐被投诉事件.html" afterDir="false" />
@@ -137,6 +141,7 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/某楼里的人.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/某楼里的人.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/某邓粉被开除粉籍事件.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/某邓粉被开除粉籍事件.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/欧莱雅大金瓶相关.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/欧莱雅大金瓶相关.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/每日一问.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/每日一问.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/江城子赠酥饼作品集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/江城子赠酥饼作品集.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/沙雕驼背等改编曲作品集.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/沙雕驼背等改编曲作品集.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/洁癖人设崩塌.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/洁癖人设崩塌.html" afterDir="false" />
@@ -174,6 +179,7 @@
       <change beforePath="$PROJECT_DIR$/_site/2018/11/秋名山论丑系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/秋名山论丑系列.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/第一饼铺.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/第一饼铺.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/纪念当初被带的节奏.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/纪念当初被带的节奏.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/给大家提点意见.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/给大家提点意见.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/继前章原楼剧情主线分析.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/继前章原楼剧情主线分析.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/网友受害情况节选.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/网友受害情况节选.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2018/11/网友点评杨紫拒炒CP.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/网友点评杨紫拒炒CP.html" afterDir="false" />
@@ -274,6 +280,7 @@
       <change beforePath="$PROJECT_DIR$/_site/page22/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page22/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page23/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page24/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page24/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page25/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page25/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page5/index.html" afterDir="false" />
@@ -303,14 +310,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="59" />
-          <entry key="html" value="22" />
+          <entry key="html" value="41" />
           <entry key="yml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="59" />
-          <entry key="HTML" value="22" />
+          <entry key="HTML" value="41" />
           <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
@@ -350,20 +357,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="480">
+              <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="507">
-              <caret line="62" column="221" lean-forward="true" selection-start-line="62" selection-start-column="221" selection-end-line="62" selection-end-column="221" />
+              <caret line="62" column="221" selection-start-line="62" selection-start-column="221" selection-end-line="62" selection-end-column="221" />
             </state>
           </provider>
         </entry>
@@ -399,6 +406,7 @@
         <option value="$PROJECT_DIR$/youcai.html" />
         <option value="$PROJECT_DIR$/css/theme.css" />
         <option value="$PROJECT_DIR$/_layouts/yaohelo.html" />
+        <option value="$PROJECT_DIR$/_includes/sidebar.html" />
       </list>
     </option>
   </component>
@@ -503,13 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yaohe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -528,7 +529,14 @@
     <entry file="file://$PROJECT_DIR$/_layouts/yaohelo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
-          <caret line="62" column="221" lean-forward="true" selection-start-line="62" selection-start-column="221" selection-end-line="62" selection-end-column="221" />
+          <caret line="62" column="221" selection-start-line="62" selection-start-column="221" selection-end-line="62" selection-end-column="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
         </state>
       </provider>
     </entry>
