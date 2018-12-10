@@ -365,13 +365,20 @@ comments: true
 <details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">14岁前粉聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
-<li><details><summary>点击就看脱粉感言:粉群教撕逼</summary><img src="{{ site.baseurl }}/images/302128857.jpg"></details></li>
+
 </ul></details>
 
-<details open><summary>4.4.2 饼芯姐姐谈邓伦团队存在的问题</summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/一位前邓伦粉的脱粉感言">一位饼芯姐姐的脱粉感言</a></li>
+<details open><summary>4.4.2 饼芯姐姐谈邓伦及团队存在的问题</summary>
+<li><a href="{{ site.baseurl}}/2018/11/前邓伦粉脱粉经历合集">前邓伦粉脱粉经历合集:粉圈过度催买 撕逼风气恶劣是主因</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/一位前邓伦粉的咏炭劝学">一位前邓伦粉的咏炭劝学</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一位天涯人的脱粉现场">一位天涯人的脱粉现场</a></li>
 </ul></details>
+
+<details open><summary>4.4.3 六界复联集结锤饼的心路历程</summary>
+<li><a href="{{ site.baseurl}}/2018/11/美男楼友锤饼经历合集">美男楼友锤饼经历选集</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/爱饼锤饼的100个理由">爱饼锤饼的100个理由</a></li>
+</ul></details>
+
 </ul>
 
 4.5 与邓本伦的关系
