@@ -304,26 +304,31 @@ comments: true
 4.2 人身攻击
 
 <ul>
-<details open><summary>4.2.1 原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
+<details open><summary>4.2.1 香蜜原作电线 编剧徐子善受到造谣辱骂 或关博或停更</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/网暴徐编电线">网暴徐编电线的微博账号成分统计</a></li>
 <li><details><summary>点击就看香蜜艺术总监:敬畏之心被黑子碾压</summary><img src="{{ site.baseurl }}/images/302267432.jpg"></details></li>
 <li><details><summary>点击就看疑邓伦粉发言:骂作者得两千赞</summary><img src="{{ site.baseurl }}/images/302752341.jpg"></details></li>
 </ul></details>
 
-<details open><summary>4.2.2 关心则乱因写剧评被骂退博 天涯美男楼的起源</summary>
+<details open><summary>4.2.2 关心则乱因写香蜜剧评被骂退博 天涯美男楼的起源</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评存档">关心则乱香蜜剧评存档</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/关心则乱剧评始末">关大退博事件始末</a></li>
 <li><a target="_blank" href="http://kksk.org/tieku/r_85673_1.html">天涯美男楼遗址</a> | <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7737639-1.shtml">美男楼凭吊专用帖</a></li>
 </ul></details>
 
-<details open><summary>4.2.3 阅文写手被问候四岁儿致郁</summary>
+<details open><summary>4.2.3 候鸟作者盈风答粉丝私信 评价邓伦角色</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/候鸟作者谈邓伦角色">候鸟作者谈邓伦角色</a></li>
+</ul></details>
+
+<details open><summary>4.2.4 阅文写手被问候四岁儿致郁</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/阅文写手被网暴致郁事件">阅文写手被网暴致郁事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/产出区的灾殃">b站乐乎等产出区受灾情况合集</a></li>
 </ul></details>
 
-<details open><summary>4.2.4 部分粉丝大战八方屠遍六界</summary>
+<details open><summary>4.2.5 部分粉丝大战八方屠遍六界</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
@@ -333,7 +338,7 @@ comments: true
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 </ul></details>
 
-<details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
+<details open><summary>4.2.6 不至人身攻击的粉丝作妖事迹</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
