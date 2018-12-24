@@ -54,6 +54,20 @@ function myFunction() {
 
 <br>
 
+---
+
+    12.23
+
+庆祝小铺在原香蜜撕胯组出道！以下简单介绍烧饼铺推荐的打开方式。
+
+<img src="{{ site.baseurl }}/images/bpsm.png" alt="drawing" width="300"/>
+
+1.上图所示界面为小铺"上新"页面。建议移动端点击右上角三条白线，选择"实锤"浏览小铺 [实锤特供专区]({{ site.baseurl }}/shichui.html)，或者选择"油菜"进入小铺 [油菜佐食专区]({{ site.baseurl }}/youcai.html)。  
+2.小铺不领工资，为爱发电。如果愿意支持小铺的美化工作，请前往<a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">天涯饼铺</a>提供技术支持。  
+3.小铺谢绝粉籍，唯一中心是邓伦及其粉丝团队。感谢宣传支持过小铺的六界义士，在此为被扣粉籍而受到牵连的无辜人士致歉。  
+4.小铺敬畏真相，警惕尬嘲。胯妹要驳斥小铺、洗白邓伦，欢迎前往<a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">天涯烧铺</a>，针对石锤一一分辩。不如从集资乱账开始讲起。
+
+
 
     12.7
 
@@ -65,7 +79,6 @@ function myFunction() {
 [欧莱雅大金瓶相关](http://t.cn/ELBRluM)
 
 以及，恭贺饼饼粉丝达到3千万！附上小铺最新流量统计。
-![图]({{ site.baseurl }}/images/302924174.png)
 
 近15日访问用户数1.8w，推算人数约1w，页面访问量10w，和饼饼的3千万粉丝大军相比，真是螳臂当车、蚍蜉撼树。然则小铺虽小，心意却到，铺里油菜疯长、美图迭出，六界四海的道友对饼饼真情表白。  
 [美男楼众人锤饼心路选集](http://t.cn/EyTEYyx)

@@ -117,6 +117,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/兔区海军名远扬">兔区海军名远扬</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
 <li><details><summary>点击就看邓伦数据粉群入组要求</summary><img src="{{ site.baseurl }}/images/v2-202649dc4c17fb8d287bbff6545c3294_hd.jpg"></details></li>
+<li><details><summary>点击就看邓伦粉丝准备300个号冲榜</summary><img src="{{ site.baseurl }}/images/303780328.jpg"></details></li>
 </ul></details>
 
 <details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
@@ -184,6 +185,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/从微博关联看捆绑营销">从微博关联看捆绑营销</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
 </details>
