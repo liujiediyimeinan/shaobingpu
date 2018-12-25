@@ -88,6 +88,10 @@ body {
     color: #3071a9;
 }
 
+.sidebar {
+
+}
+
 .container-left {
     margin: 0;
 }
@@ -205,6 +209,6 @@ a.anchor {
 }
 
 hr {
-    margin: 0.4em;
+    margin: .6em;
     padding: 0em;
 }

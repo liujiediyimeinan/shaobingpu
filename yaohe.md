@@ -25,20 +25,23 @@ function myFunction() {
   document.execCommand("copy");
 
   /* Alert the copied text */
-  alert("电脑端已复制小铺网址: " + copyText.value + "\n手机端还在开发中，感谢支持!");
+  alert("电脑端已复制小铺网址: " + copyText.value + "\n手机端请点击二维码下方网址手动复制，谢谢支持:P");
 }
 </script>
 
 ---
 
 <img src="{{ site.baseurl }}/images/bingpu.png" height="180" width="180" />
-<center><input type="text" onclick="myFunction()" size="18" value="http://t.cn/EAhf468" id="myInput"></center>
+<center><input type="text" onclick="this.setSelectionRange(0, this.value.length)" size="18" value="http://t.cn/EAhf468" id="myInput"></center>
 
 ---
 
 <center>
 <a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">送锤供菜请往这里</a> | 
 <a href="#dxjja">保存饼铺请见这里</a><br>
+
+<a target="_blank" href="{{ site.baseurl }}/daiyan.html">代言列表请见这里</a> | 
+<a href="{{ site.baseurl }}/jubao.html">举报通道请往这里</a><br>
 
 <a href="{{ site.baseurl }}/2018/11/烧饼铺宣传图集#dxjja">烧饼铺宣传图集</a> | 
 <a href="https://m.weibo.cn/6763905640/4312925650828851">烧饼铺宣传视频</a><br>
@@ -51,6 +54,38 @@ function myFunction() {
 
 <br>
 
+---
+
+    12.23
+
+庆祝小铺在原香蜜撕胯组出道！以下简单介绍烧饼铺推荐的打开方式。
+
+<img src="{{ site.baseurl }}/images/bpsm.png" alt="drawing" width="300"/>
+
+1.上图所示界面为小铺"上新"页面。建议移动端点击右上角三条白线，选择"实锤"浏览小铺 [实锤特供专区]({{ site.baseurl }}/shichui.html)，或者选择"油菜"进入小铺 [油菜佐食专区]({{ site.baseurl }}/youcai.html)。  
+2.小铺不领工资，为爱发电。如果愿意支持小铺的美化工作，请前往<a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">天涯饼铺</a>提供技术支持。  
+3.小铺谢绝粉籍，唯一中心是邓伦及其粉丝团队。感谢宣传支持过小铺的六界义士，在此为被扣粉籍而受到牵连的无辜人士致歉。  
+4.小铺敬畏真相，警惕尬嘲。胯妹要驳斥小铺、洗白邓伦，欢迎前往<a target="_blank" href="http://bbs.tianya.cn/post-funinfo-7726050-1.shtml">天涯烧铺</a>，针对石锤一一分辩。不如从集资乱账开始讲起。
+
+
+
+    12.7
+
+
+饼饼竹盐代言活动中黄牛粉丝安保人员肢体冲突事件，牵扯出活动门票非官方公开发售，而是后援会入群实名登记分发，入场资格不详。仅通过后援会实名发放的门票如何流入黄牛之手，黄牛、粉丝、工作人员同在现场是否巧合，入场资格究竟为何，如果门票要钱那所得流入何方，小铺将与吃饼群众一起关注此事后续。  
+[活动现场肢体冲突事件](http://t.cn/EyTEqR3)
+
+竹盐牙膏已经开起了粉丝见面会，欧莱雅美发的见面会还会远吗。  
+[欧莱雅大金瓶相关](http://t.cn/ELBRluM)
+
+以及，恭贺饼饼粉丝达到3千万！附上小铺最新流量统计。
+
+近15日访问用户数1.8w，推算人数约1w，页面访问量10w，和饼饼的3千万粉丝大军相比，真是螳臂当车、蚍蜉撼树。然则小铺虽小，心意却到，铺里油菜疯长、美图迭出，六界四海的道友对饼饼真情表白。  
+[美男楼众人锤饼心路选集](http://t.cn/EyTEYyx)
+
+最后，再次感恩六界扩散的道友！感谢大家对烧饼铺的支持！
+
+---
 
     12.3
 
