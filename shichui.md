@@ -108,7 +108,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集">微博数据注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/从天涯帖数看顶流热度">从天涯帖数看"顶流"热度</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
@@ -211,6 +211,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/兔眼冷观屠龙十日">兔区屠龙总结</a> | <a href="{{ site.baseurl }}/2018/11/微博记录屠龙十日">微博屠龙总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜男二受网暴情况节选">香蜜男二受网暴情况节选</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -332,6 +333,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
+<li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
