@@ -184,7 +184,7 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a> | <a href="{{ site.baseurl }}/2018/11/从兔区看撕逼缘何而起">从兔区坟帖看撕逼起源</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从微博关联看捆绑营销">从微博关联看捆绑营销</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
 </ul>
