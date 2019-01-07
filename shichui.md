@@ -104,8 +104,8 @@ comments: true
 
 <details open><summary>2.1.2 虚红小王子: 1个月33次热搜 没眼看的讨论量 扶老人当伴郎 有矿</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集">微博数据注水实锤集</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a> | <a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集">微博数据注水实锤集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/前邓伦粉爆料买榜操作">前邓粉爆买榜操作</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
@@ -225,7 +225,7 @@ comments: true
 <ul>
 <details open><summary>3.3.1 凳子CP炒作相关</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/北奥后援疑受邓伦官控">北奥后援疑受邓伦官方掌控</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关</a> | <a href="{{ site.baseurl }}/2018/11/微博总结凳子CP炒作">微博总结凳子CP炒作</a></li>
 </ul></details>
 <details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
@@ -333,7 +333,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a> | <a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
 </ul></details>
@@ -354,13 +354,14 @@ comments: true
 <details open><summary>4.3.1 豆瓣锁场赶人 知乎折叠降赞 b站举报下架 </summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜组成邓伦专场</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣撕胯组事迹">豆瓣撕胯组事迹</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关合集">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
 <li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
