@@ -120,10 +120,9 @@ comments: true
 <li><details><summary>点击就看邓伦粉丝准备300个号冲榜</summary><img src="{{ site.baseurl }}/images/303780328.jpg"></details></li>
 </ul></details>
 
-<details><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
+<details open><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/不能屏蔽的邓伦">躲得过马云躲不过邓伦</a></li>
-<li><details><summary>点击就看无法直立行走的挂件伦</summary><img src="{{ site.baseurl }}/images/5bec328482344.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/指哪打哪的海军">楼友指哪打哪 水军勤勤恳恳 </a></li></ul></details>
 </ul>
 
@@ -225,7 +224,9 @@ comments: true
 <ul>
 <details open><summary>3.3.1 凳子CP炒作相关</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/北奥后援疑受邓伦官控">北奥后援疑受邓伦官方掌控</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关</a> | <a href="{{ site.baseurl }}/2018/11/微博总结凳子CP炒作">微博总结凳子CP炒作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博总结凳子CP炒作">微博总结凳子CP炒作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关补充</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博之夜事件">微博之夜事件</a></li>
 </ul></details>
 <details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
 <ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
@@ -356,6 +357,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
 <li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
+<li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
