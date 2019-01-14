@@ -224,19 +224,25 @@ comments: true
 <ul>
 <details open><summary>3.3.1 凳子CP炒作相关</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/北奥后援疑受邓伦官控">北奥后援疑受邓伦官方掌控</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博总结凳子CP炒作">微博总结凳子CP炒作</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关补充</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博之夜事件">微博之夜事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博总结凳子CP炒作">微博总结凳子CP炒作</a> | <a href="{{ site.baseurl }}/2018/11/凳子CP炒作相关">凳子CP炒作相关补充</a></li>
 </ul></details>
-<details open><summary>3.3.2 INS未回关事件:走过最长的路是你的套路</summary>
-<ul><li><a href="https://www.zhihu.com/question/296027277">知乎:对于邓伦没有回关杨紫怎么看</a></li>
-<li><a href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓伦方骚操作</a></li>
-<li><details><summary>点击就看灭花三部曲</summary><img src="{{ site.baseurl }}/images/mhsbq.png"></details></li>
+
+<details open><summary>3.3.2 凳子CP插刀吸血相关</summary>
+
+<ul><li><a target="_blank" href="https://www.zhihu.com/question/296027277">INS未回关事件</a> | <a  target="_blank" href="https://www.zhihu.com/question/296032883/answer/500187806">INS事件中邓方骚操作</a></li>
+
+<li><a href="{{ site.baseurl }}/2018/11/微博之夜事件">微博之夜事件:唯一做错的是没坐错</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜女主受网暴情况节选">香蜜女主受网暴情况节选</a></li>
+
+<li><details><summary>点击就看灭花三部曲</summary><img src="{{ site.baseurl }}/images/mhsbq.png"></details></li>
+
 </ul></details>
+
 <details open><summary>3.3.3 杨紫方对此的表态:欠下的总要偿还</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/杨紫工作室网暴声明">11月23日工作室网暴声明</a></li>
+
 <li><a href="{{ site.baseurl }}/2018/11/杨紫方拒绝捆绑合集">杨紫工作室拒绝捆绑合集</a></li>
+
 <li><details><summary>点击就看杨紫反黑组点名邓伦粉丝长期无故辱骂</summary>
 <img src="{{ site.baseurl }}/images/304023701.jpg"></details></li>
 </ul></details>
@@ -275,6 +281,13 @@ comments: true
 <ul>
 <li><details><summary>点击就看没有姓名的一番女主</summary>
 <img src="{{ site.baseurl }}/images/302569563.jpg"></details></li>
+</ul>
+</details>
+
+<details open><summary><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关#dxjjc">3.5.3 真朋友相关</a></summary>
+<ul>
+<li><details><summary>点击再看没有姓名的一番女主</summary>
+<img src="{{ site.baseurl }}/images/304627897.jpg"></details></li>
 </ul>
 </details>
 
@@ -345,7 +358,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a> | <a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a> | <a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
 </ul></details>
 </ul>
 
