@@ -346,8 +346,8 @@ comments: true
 <details open><summary>4.2.4 部分粉丝大战八方屠遍六界</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a> | <a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/微博盘点精分灯芯">微博盘点精分灯芯大粉</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
 </ul></details>
@@ -357,7 +357,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/邓粉花钱买画手却拖款">邓粉花钱买画手却拖款事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a> | <a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a> | <a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a> | <a href="{{ site.baseurl }}/2018/11/网友受害情况节选#dxjjj">路人正常评论被挂黑追杀</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
 </ul></details>
 </ul>
