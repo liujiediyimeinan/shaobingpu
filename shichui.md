@@ -278,17 +278,9 @@ comments: true
 </details>
 
 <details open><summary><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关#dxjja">3.5.2 新浪电视剧大赏开屏事件</a></summary>
-<ul>
-<li><details><summary>点击就看没有姓名的一番女主</summary>
-<img src="{{ site.baseurl }}/images/302569563.jpg"></details></li>
-</ul>
 </details>
 
 <details open><summary><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关#dxjjc">3.5.3 真朋友相关</a></summary>
-<ul>
-<li><details><summary>点击再看没有姓名的一番女主</summary>
-<img src="{{ site.baseurl }}/images/304627897.jpg"></details></li>
-</ul>
 </details>
 
 
