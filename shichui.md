@@ -150,6 +150,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/健身人设崩塌">健身人设崩塌</a> | <a href="{{ site.baseurl }}/2018/11/洁癖人设崩塌">洁癖人设崩塌</a></li>
 <li><details><summary>点击就看随地吐痰的素质伦</summary><img src="{{ site.baseurl }}/images/mzt2.gif"><img src="{{ site.baseurl }}/images/mzt1.gif"></details></li>
 <li><details><summary>点击就看身高185的高个伦</summary><img src="{{ site.baseurl }}/images/302391776.jpg"><img src="{{ site.baseurl }}/images/302481726.jpg"></details></li>
+<li><a target="_blank" href="https://weibo.com/tv/v/Hc7b4nv5g?fid=1034:4328875287635289">点击就看引吭高歌伦</a></li>
 <li><a href="https://c.m.163.com/news/a/D7SS0H640517N9K6.html?spss=newsapp&spsw=1">网易:邓伦无视禁烟标志吞云吐雾</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/疑似校友爆料">校友爆料早恋打架的退校经历</a></li>
 </ul></details>
