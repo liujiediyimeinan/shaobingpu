@@ -351,7 +351,8 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/挂黑背背佳事件">背背佳蓝V被挂黑事件</a> | <a href="{{ site.baseurl }}/2018/11/罗家粉圈卧底事件">罗家粉圈卧底事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯版主被挂事件">天涯版主被挂事件</a> | <a href="{{ site.baseurl }}/2018/11/故宫小姐姐被投诉事件">故宫小姐姐被投诉事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一个天涯路人的亲身经历">路人被按头审美的亲身经历</a> | <a href="{{ site.baseurl }}/2018/11/网友受害情况节选#dxjjj">路人正常评论被挂黑追杀</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博海军拆CP黑对家事件">微博海军拆CP黑对家事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮日常">豆瓣扒邓粉反装忠忠装反日常</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣扒邓粉批皮黑知否">豆瓣邓粉批皮黑挑知否事件</a></li>
 </ul></details>
 </ul>
 
