@@ -372,7 +372,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"></details></li>
+<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
