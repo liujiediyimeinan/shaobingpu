@@ -184,6 +184,7 @@ comments: true
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/扒皮疑邓姓营销号">扒皮营销号:拉踩造谣洗白卖惨的日常</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a> | <a href="{{ site.baseurl }}/2018/11/从兔区看撕逼缘何而起">从兔区坟帖看撕逼起源</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/从微博关联看捆绑营销">从微博关联看捆绑营销</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜撕逼背后的故事">按时间线细扒香蜜撕逼背后的故事</a></li>
@@ -212,6 +213,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜男二受网暴情况节选">香蜜男二受网暴情况节选</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/大粉在线教买小号辱骂事件">大粉教买小号辱骂事件</a> | <a href="{{ site.baseurl }}/2018/11/吧主为前同事养蛊事件">吧主修改百科词条事件</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -341,6 +343,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a> | <a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/微博盘点精分灯芯">微博盘点精分灯芯大粉</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">微博大粉被扒出在知乎匿名黑人</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
 </ul></details>
@@ -374,6 +377,7 @@ comments: true
 <li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
 <li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
+<li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
 <li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
 </ul></details>
 </ul>
