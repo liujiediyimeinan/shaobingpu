@@ -214,6 +214,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大粉在线教买小号辱骂事件">大粉教买小号辱骂事件</a> | <a href="{{ site.baseurl }}/2018/11/吧主为前同事养蛊事件">吧主修改百科词条事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎彩虹屁抄袭反挂黑原作者事件">抄袭彩虹屁反挂黑原作者事件</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -388,6 +389,7 @@ comments: true
 <details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">14岁前粉聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/蜜壶事件始末">蜜壶事件始末:支持偶像不应对错不分</a></li>
 <li><details><summary>点击就看香蜜剧群撕完男二撕女主</summary><img src="{{ site.baseurl }}/images/303672513.jpg"><img src="{{ site.baseurl }}/images/303672521.jpg"><img src="{{ site.baseurl }}/images/303672525.jpg"></details></li>
 </ul></details>
 
