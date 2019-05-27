@@ -106,6 +106,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/微博热搜总结">微博热搜总结</a> | <a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集">微博数据注水实锤集</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/前邓伦粉爆料买榜操作">前邓粉爆买榜操作</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集#dxja">公益微博买转被官方清除</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
@@ -369,6 +370,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
 <li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
 <li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
+<li><details><summary>点击就看本人亲自投诉删微博</summary><img src="{{ site.baseurl }}/images/307885557.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
@@ -411,8 +413,9 @@ comments: true
 <ul>
 <details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
-<details open><summary>4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/邓伦亲联反黑组">邓伦亲联反黑组</a></li>
 </ul></details>
 </ul>
 
