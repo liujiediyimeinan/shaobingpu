@@ -197,6 +197,7 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中内网海军控舆实效</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博评论分析">大数据分析香蜜官博中评论情况</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较#dxjjf">剧播期间v榜数据变化</a> | <a href="{{ site.baseurl }}/2018/11/同期演员热度比较#dxjje">剧播期间德塔文数据变化</a></li>
 </ul></details>
 
 <details><summary>3.1.3 受累对象: 点击就看复联成员名单</summary><img src="{{ site.baseurl }}/images/fulian.jpg"></details>
