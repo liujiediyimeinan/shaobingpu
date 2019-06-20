@@ -41,6 +41,8 @@ comments: true
 <li><a href="{{ site.baseurl}}/2018/11/腾讯视频娱乐对比各家粉圈">快本应援惊世骇俗538 附各家粉圈对比</a></li>
 
 <li><a href="{{ site.baseurl}}/2018/11/活动现场肢体冲突">品牌活动门票疑团 活动现场肢体冲突</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/大粉因集资账目问题退圈">大粉因集资账目问题退圈</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/集资购杂志锁单事件">大量集资购杂志 不去秒切称锁单 账目不平留后看</a></li>
 </ul></details>
 
 
