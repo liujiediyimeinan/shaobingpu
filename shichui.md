@@ -416,7 +416,7 @@ comments: true
 <ul>
 <details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
-<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</a></summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦亲联反黑组">邓伦亲联反黑组</a></li>
 </ul></details>
