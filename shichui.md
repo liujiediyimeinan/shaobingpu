@@ -110,17 +110,19 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/前邓伦粉爆料买榜操作">前邓粉爆买榜操作</a> | <a href="{{ site.baseurl }}/2018/11/买韩流博主事件">买博主事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集#dxja">公益微博买转被官方清除</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a> | <a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/直播显示邓伦活粉数堪忧">直播显示邓伦活粉数堪忧</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.1.3 海军大本营: 兔区海军名远扬 饼族夜游的搜索量</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/兔区海军名远扬">兔区海军名远扬</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">大数据分析香蜜中海军控舆实效</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/大数据分析香蜜N问">香蜜N问:大数据分析香蜜中海军控舆实效</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/已故同事微博成邓粉">已故同事微博成邓伦粉丝</a></li>
 <li><details><summary>点击就看邓伦数据粉群入组要求</summary><img src="{{ site.baseurl }}/images/v2-202649dc4c17fb8d287bbff6545c3294_hd.jpg"></details></li>
 <li><details><summary>点击就看邓伦粉丝准备300个号冲榜</summary><img src="{{ site.baseurl }}/images/303780328.jpg"></details></li>
+<li><details><summary>点击就看向200粉丝发900控评小号</summary><img src="{{ site.baseurl }}/images/309395704.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.1.4 全能不可说: 无法屏蔽 无处不在 指哪打哪</summary>
@@ -145,6 +147,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/滚筒洗衣机从不自行练习">滚筒洗衣机不自行练习 兔区美男楼撷英</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓小哥哥的替身们">香蜜里邓伦的替身们</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/现场工作人员爆料">疑似香蜜现场工作人员爆料</a></li>
+<li><details><summary>点击就看每次最后到场的邓大咖</summary><img src="{{ site.baseurl }}/images/309486084.jpg"></details></li>
 </ul></details>
 
 <details open><summary>2.2.3 学霸校草苏: 吐痰 抽烟 打架 早恋 校草学霸另有其人</summary>
@@ -218,7 +221,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/香蜜官博的骚操作总结">香蜜官博骚操作总结</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/粉群撕逼恶性针对">持续数月的粉群撕逼恶性针对</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/大粉在线教买小号辱骂事件">大粉教买小号辱骂事件</a> | <a href="{{ site.baseurl }}/2018/11/吧主为前同事养蛊事件">吧主修改百科词条事件</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎彩虹屁抄袭反挂黑原作者事件">抄袭彩虹屁反挂黑原作者事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">知乎扒大粉匿名黑人事件</a> | <a href="{{ site.baseurl }}/2018/11/知乎扒彩虹屁抄袭事件">抄袭彩虹屁反挂黑原作者事件</a></li>
 <li><details><summary>点击就看屠龙三部曲</summary><img src="{{ site.baseurl }}/images/tlsbq.png"></details></li>
 </ul></details>
 
@@ -226,7 +229,16 @@ comments: true
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/1001夜男二受网暴情况">1001夜男二受网暴情况</a></li>
 </ul></details>
+
+<details open><summary>3.2.3 真朋友相关: 避无可避 真朋友变假朋友</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/粉丝超前内涵真朋友男二">粉丝超前一年内涵男二</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/集资购杂志锁单事件">集资购杂志锁单事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/真朋友男二虚假网站事件">真朋友男二虚假网站事件</a></li>
+<li><details><summary>点击就看真朋友主演黑粉头号是邓伦</summary><img src="{{ site.baseurl }}/images/309307547.jpg"></details></li>
+</ul></details>
 </ul>
+
 
 3.3 插刀: 如果你有个邓伦一样的好朋友
 <ul>
@@ -265,7 +277,9 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/一条手链引发的血案">一条手链引发的血案</a> | <a href="{{ site.baseurl }}/2018/11/一条手链引发的血案#dxjjb">对手链血案的澄清</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/当海军走错片场">当海军走错片场</a> | <a href="{{ site.baseurl }}/2018/11/这次海军走对了片场">这次海军走对了片场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/豆瓣扒到底是谁在推谣言">疑邓粉在豆瓣散布谣言</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/素质三连与金晨回应">素质三连与金晨回应</a></li>
 </ul></details>
+
 <details open><summary>3.4.2 绯闻女友炒作情况: 一次合作炒一个CP</summary>
 <ul>
 <li><details><summary>点击就看到处撩骚的自持伦</summary>
@@ -314,7 +328,8 @@ comments: true
 
 <details open><summary>4.1.2 造谣同事: 那些年薛定谔的淑芬剧粉编造过的谣言</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">海军打脸神逻辑</a></li><li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯掉皮事件 玩脱了的无间道</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/海军翻车史相关作品集">海军翻车史相关作品集</a> | <a href="{{ site.baseurl }}/2018/11/总结邓伦粉打脸神逻辑">海军打脸神逻辑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区海军经典掉皮事件">兔区灯芯爆笑掉皮</a> | <a href="{{ site.baseurl }}/2018/11/兔区真朋友相关掉皮事件">兔区真朋友相关掉皮</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/信口造谣卡黑澄清">疑邓伦粉信口造谣 反黑组卡黑澄清声明</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/对造谣加戏的澄清">出场时长精确统计 澄清加戏谣言</a></li>
 </ul></details></ul>
@@ -348,9 +363,11 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/邓伦大粉的战斗力">微博大粉带头撕逼</a> | <a href="{{ site.baseurl }}/2018/11/疑伦粉诅咒制片人">为香蜜制作团队送花圈</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/网友受害情况节选">网友受害情况节选</a> | <a href="{{ site.baseurl }}/2018/11/占热搜屠广场">占热搜屠广场</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博海军掉皮小记">微博海军掉皮小记</a> | <a href="{{ site.baseurl }}/2018/11/微博盘点精分灯芯">微博盘点精分灯芯大粉</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">微博大粉被扒出在知乎匿名黑人</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎扒大粉匿名黑人">微博大粉在知乎匿名黑人</a> | <a href="{{ site.baseurl }}/2018/11/知乎批皮挑事相关">知乎上掐挑男二骚操作</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/快本现场战吴宣仪粉">快本现场战吴宣仪粉</a> | <a href="{{ site.baseurl }}/2018/11/综艺番位撕李易峰粉">综艺番位撕李易峰粉</a></li>
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
+<li><details><summary>点击就看灯芯姐姐回应集资甩锅问题的方式</summary><img src="{{ site.baseurl }}/images/309885217.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
