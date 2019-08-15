@@ -40,7 +40,7 @@ comments: true
 <li><a href="{{ site.baseurl}}/2018/11/后援会工作室背后疑云">饼芯姐姐爆料后援会工作室问题重重</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/腾讯视频娱乐对比各家粉圈">快本应援惊世骇俗538 附各家粉圈对比</a></li>
 
-<li><a href="{{ site.baseurl}}/2018/11/活动现场肢体冲突">品牌活动门票疑团 活动现场肢体冲突</a></li>
+<li><a href="{{ site.baseurl}}/2018/11/活动现场肢体冲突事件">品牌活动门票疑团 活动现场肢体冲突</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/大粉因集资账目问题退圈">大粉因集资账目问题退圈</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/集资购杂志锁单事件">大量集资购杂志 不去秒切称锁单 账目不平留后看</a></li>
 </ul></details>
@@ -111,7 +111,7 @@ comments: true
 <li><a href="{{ site.baseurl }}/2018/11/微博数据注水实锤集#dxja">公益微博买转被官方清除</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/微博流量脱水现场">数据流分析流量数据脱水现场</a> | <a href="{{ site.baseurl }}/2018/11/超话水军现形记">超话水军现形记</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/香蜜角色衍生热度">香蜜相关角色衍生热度比较</a> | <a href="{{ site.baseurl }}/2018/11/同期演员热度比较">从天涯帖数看"顶流"热度</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/直播显示邓伦活粉数堪忧">直播显示邓伦活粉数堪忧</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/直播显示活粉数堪忧">直播显示邓伦活粉数堪忧</a></li>
 <li><details><summary>点击就看淘宝买粉 水军都关注了邓伦</summary><img src="{{ site.baseurl }}/images/301649439.jpg"></details></li>
 </ul></details>
 
@@ -232,7 +232,7 @@ comments: true
 
 <details open><summary>3.2.3 真朋友相关: 避无可避 真朋友变假朋友</summary>
 <ul>
-<li><a href="{{ site.baseurl }}/2018/11/粉丝超前内涵真朋友男二">粉丝超前一年内涵男二</a> | <a href="{{ site.baseurl }}/2018/11/知乎上掐挑两任男二骚操作">知乎掐挑两任男二</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/粉丝超前内涵真朋友男二">粉丝超前一年内涵男二</a> | <a href="{{ site.baseurl }}/2018/11/知乎批皮挑事相关#dxjjb">知乎掐挑两任男二</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/集资购杂志锁单事件">集资购杂志锁单事件</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/真朋友男二虚假网站事件">真朋友男二虚假网站事件</a></li>
 <li><details><summary>点击就看真朋友主演黑粉头号是邓伦</summary><img src="{{ site.baseurl }}/images/309307547.jpg"></details></li>
