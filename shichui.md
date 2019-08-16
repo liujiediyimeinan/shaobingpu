@@ -137,8 +137,8 @@ comments: true
 <details open><summary>2.2.1 收视小福星: 伦显视跌 伦消视涨 伦存视亡</summary>
 <ul>
 <li><a href="{{ site.baseurl }}/2018/11/伦消视涨伦存视亡">香蜜/1001夜的收视率与邓伦出场时长负相关</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/故宫新综艺伦现视跌">故宫新综艺伦现视跌</a> | <a href="{{ site.baseurl }}/2018/11/香蜜后快本收视又天坑">香蜜后快本收视又天坑</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/收视小福星变系数小福星">收视小福星变系数小福星</a></li>
 </ul></details>
 
 <details open><summary>2.2.2 努力好演员: 轧戏不练习 没我就没剧</summary>
