@@ -20,7 +20,7 @@ var tipuesearch = {"pages": [{
     "url": "/2018/11/%E6%94%B6%E8%A7%86%E5%B0%8F%E7%A6%8F%E6%98%9F%E5%8F%98%E7%B3%BB%E6%95%B0%E5%B0%8F%E7%A6%8F%E6%98%9F"
   },{
     "title": "悲伤蛙代言图",
-    "text": "",
+    "text": "推荐阅读 | 篮球综艺WCNM事件",
     "tags": "图",
     "url": "/2018/11/%E6%82%B2%E4%BC%A4%E8%9B%99%E4%BB%A3%E8%A8%80%E5%9B%BE"
   },{
