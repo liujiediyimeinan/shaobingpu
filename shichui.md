@@ -305,13 +305,38 @@ comments: true
 
 <details open><summary><a href="{{ site.baseurl }}/2018/11/撕番撕戏份相关#dxjjc">3.5.3 真朋友相关</a></summary>
 </details>
-
-
 </ul>
 
-3.6 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+3.6 封杀: 如果你是个提出批评的观众
 
-<ul><details><summary><a href="{{ site.baseurl }}/2018/11/打脸邓伦的各种洗白说法">3.6.1 打脸为邓伦本人洗白的各种说法</a></summary></details></ul>
+<ul>
+<details open><summary>3.6.1 豆瓣锁场赶人 知乎折叠降赞 b站举报下架 </summary>
+<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜组成邓伦专场</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣撕胯组事迹">豆瓣撕胯组事迹</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
+<li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
+<li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
+</ul></details>
+
+<details open><summary>3.6.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
+<ul>
+<li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
+<li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
+<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
+<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
+<li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
+<li><details><summary>点击就看德塔文数据微信秒删</summary><img src="{{ site.baseurl }}/images/311612005.jpg"><img src="{{ site.baseurl }}/images/311611997.jpg"></details></li>
+</ul></details>
+
+
+3.7 与邓本伦的关系: 自然而然 学会坚强 在线摆摊
+
+<ul><details><summary><a href="{{ site.baseurl }}/2018/11/邓伦访谈现场节选#dxjjr">3.7.1 邓伦访谈:粉丝有权掐架辩白</a></summary></details></ul>
+
+<ul><details><summary><a href="{{ site.baseurl }}/2018/11/打脸邓伦的各种洗白说法">3.7.2 打脸为邓伦本人洗白的各种说法</a></summary></details></ul>
+</ul>
 </ul>
 
 <a class="anchor" name="dxjjd"></a>
@@ -383,41 +408,19 @@ comments: true
 </ul></details>
 </ul>
 
-4.3 六界封杀
+
+
+4.3 影响
 
 <ul>
-<details open><summary>4.3.1 豆瓣锁场赶人 知乎折叠降赞 b站举报下架 </summary>
-<ul><li><a href="{{ site.baseurl }}/2018/11/豆瓣香蜜小组成个人专场">豆瓣香蜜组成邓伦专场</a> | <a href="{{ site.baseurl }}/2018/11/豆瓣撕胯组事迹">豆瓣撕胯组事迹</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/知乎饼公执法合集">知乎上的饼公执法合集</a> | <a href="{{ site.baseurl }}/2018/11/知乎提问背后的恶意">知乎提问被恶意篡改</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/六界盗号封号相关">六界盗号封号相关合集:QQ 微博 天涯 神通广大</a></li>
-<li><details><summary>点击就看微博上成立知乎反黑组</summary><img src="{{ site.baseurl }}/images/302128103.jpg"></details></li>
-<li><details><summary>点击就看微博上成立b站捧场组</summary><img src="{{ site.baseurl }}/images/304477100.jpg"></details></li>
-<li><details><summary>点击就看本人亲自投诉删微博</summary><img src="{{ site.baseurl }}/images/307885557.jpg"></details></li>
-</ul></details>
-
-<details open><summary>4.3.2 兔区删帖封号 微博当场去世 天涯轰然坍塌</summary>
-<ul>
-<li><a href="{{ site.baseurl }}/2018/11/微博在线去世">微博实锤超话3日被端</a></li>
-<li><a href="{{ site.baseurl }}/2018/11/兔区虚安理由强封号">兔区虚安理由强封号事件</a></li>
-<li><details><summary>点击就看微博饼芯姐姐当场去世</summary><img src="{{ site.baseurl }}/images/301702172.jpg"></details></li>
-<li><details><summary>点击就看微博万锤楼即刻爆破</summary><img src="{{ site.baseurl }}/images/v2-74abf4099a8041bd141abeb59fb84903_hd.jpg"><img src="{{ site.baseurl }}/images/306084565.jpg"></details></li>
-<li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
-<li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
-<li><a href="{{ site.baseurl }}/2018/11/天涯金乌鸦事件">天涯金乌鸦事件经过</a></li>
-</ul></details>
-</ul>
-
-4.4 影响
-
-<ul>
-<details open><summary>4.4.1 邓伦粉圈对未成年粉丝的心理影响</summary>
+<details open><summary>4.3.1 邓伦粉圈对未成年粉丝的心理影响</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/后援会负责人群内发言">问题后援会负责人群内言论:粉群素质可见一斑</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/公益作集资的遮羞布">14岁前粉聊天记录:人手几十个小号 粉群辱骂蔚然成风</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/蜜壶事件始末">蜜壶事件始末:支持偶像不应对错不分</a></li>
 <li><details><summary>点击就看香蜜剧群撕完男二撕女主</summary><img src="{{ site.baseurl }}/images/303672513.jpg"><img src="{{ site.baseurl }}/images/303672521.jpg"><img src="{{ site.baseurl }}/images/303672525.jpg"></details></li>
 </ul></details>
 
-<details open><summary>4.4.2 饼芯姐姐谈邓伦及团队存在的问题</summary>
+<details open><summary>4.3.2 饼芯姐姐谈邓伦及团队存在的问题</summary>
 <ul><li><a href="{{ site.baseurl}}/2018/11/前邓伦粉脱粉经历合集">前邓伦粉脱粉经历合集:粉圈过度催买 撕逼风气恶劣是主因</a></li>
 <li><a href="{{ site.baseurl}}/2018/11/一位前邓伦粉的咏炭劝学">一位前邓伦粉的咏炭劝学</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一位天涯人的脱粉现场">一位天涯人的脱粉现场</a></li>
@@ -430,13 +433,14 @@ comments: true
 
 </ul>
 
-4.5 与邓本伦的关系
+4.4 与邓本伦的关系
 
 <ul>
-<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.4.1 对待自家粉丝的网络暴力 值得借鉴的处理方式</a></summary></details>
 
-<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.5.2 对待自家网络暴力的反噬 不应一味扮演受害者</a></summary>
+<details open><summary><a href="{{ site.baseurl }}/2018/11/明星该如何管理粉丝撕逼">4.4.2 对待自家网络暴力的反噬 不应一味扮演受害者</a></summary>
 <ul><li><a href="{{ site.baseurl }}/2018/11/邓伦工作室网暴声明合集">邓伦工作室网暴声明合集</a></li>
+<li><a href="{{ site.baseurl }}/2018/11/篮球综艺WCNM事件#dxjjg">邓伦工作室WCNM联合声明</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/邓伦亲联反黑组">邓伦亲联反黑组</a></li>
 </ul></details>
 </ul>
