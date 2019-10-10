@@ -329,6 +329,7 @@ comments: true
 <li><details><summary>点击就看天涯美男楼轰然坍塌</summary><img src="{{ site.baseurl }}/images/301869839.jpg"><img src="{{ site.baseurl }}/images/301660009.jpg"></details></li>
 <li><details><summary>点击就看微博锤饼被本人举报</summary><img src="{{ site.baseurl }}/images/306996190.jpg"></details></li>
 <li><details><summary>点击就看豆瓣锤帖被本人删帖</summary><img src="{{ site.baseurl }}/images/IMG_5019.PNG"></details></li>
+<li><details><summary>点击就看知乎高赞被本人举报</summary><img src="{{ site.baseurl }}/images/123838mqjhlmm9jywyy5ew.jpg"></details></li>
 </ul></details>
 
 
