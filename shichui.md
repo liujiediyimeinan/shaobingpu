@@ -398,7 +398,7 @@ comments: true
 <li><details><summary>点击就看粉群自白"撕了太多家 就搞那个人"</summary><img src="{{ site.baseurl }}/images/301788508.png"></details></li>
 <li><details><summary>点击就看粉群自白"定期嘲一下才不会变态"</summary><img src="{{ site.baseurl }}/images/303943872.jpg"></details></li>
 <li><details><summary>点击就看灯芯姐姐回应集资甩锅问题的方式</summary><img src="{{ site.baseurl }}/images/309885217.jpg"></details></li>
-<li><details><summary>点击就看粉群自白"团建(撕逼)有助于数据"/summary><img src="{{ site.baseurl }}/images/M0Zc26.md.jpg"></details></li>
+<li><details><summary>点击就看粉群自白"团建(撕逼)有助于数据"</summary><img src="{{ site.baseurl }}/images/M0Zc26.md.jpg"></details></li>
 </ul></details>
 
 <details open><summary>4.2.5 不至人身攻击的粉丝作妖事迹</summary>
