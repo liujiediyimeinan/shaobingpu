@@ -191,6 +191,7 @@ comments: true
 <ul>
 <details open><summary>3.1.1 操作手段: 联动营销号 台本先写好</summary>
 <ul>
+<li><a href="{{ site.baseurl }}/2018/11/于正下场锤邓伦经纪人">知名制片人于正亲自锤人:邓伦经纪人常年养水军黑人</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/一家人就是要整整齐齐">联动营销号:一家人就是要整整齐齐</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/扒皮疑邓姓营销号">扒皮营销号:拉踩造谣洗白卖惨的日常</a></li>
 <li><a href="{{ site.baseurl }}/2018/11/兔区开扒营销策略">兔区开扒营销策略</a> | <a href="{{ site.baseurl }}/2018/11/从兔区看撕逼缘何而起">从兔区坟帖看撕逼起源</a></li>
